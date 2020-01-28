@@ -1,0 +1,355 @@
+<Stock lref="l1">
+	<Prix>39 eur</Prix>
+	<Disponibilite>7</Disponibilite>
+	<Exemplaires>22714</Exemplaires>
+</Stock>
+<Stock lref="l2">
+	<Prix>29 eur</Prix>
+	<Disponibilite>3</Disponibilite>
+	<Exemplaires>21174</Exemplaires>
+</Stock>
+<Stock lref="l3">
+	<Prix>27 eur</Prix>
+	<Disponibilite>20</Disponibilite>
+	<Exemplaires>10343</Exemplaires>
+</Stock>
+<Stock lref="l4">
+	<Prix>4 eur</Prix>
+	<Disponibilite>6</Disponibilite>
+	<Exemplaires>6143</Exemplaires>
+</Stock>
+<Stock lref="l5">
+	<Prix>6 eur</Prix>
+	<Disponibilite>11</Disponibilite>
+	<Exemplaires>7097</Exemplaires>
+</Stock>
+<Stock lref="l6">
+	<Prix>21 eur</Prix>
+	<Disponibilite>20</Disponibilite>
+	<Exemplaires>28342</Exemplaires>
+</Stock>
+<Stock lref="l7">
+	<Prix>13 eur</Prix>
+	<Disponibilite>0</Disponibilite>
+	<Exemplaires>13761</Exemplaires>
+</Stock>
+<Stock lref="l8">
+	<Prix>33 eur</Prix>
+	<Disponibilite>16</Disponibilite>
+	<Exemplaires>18522</Exemplaires>
+</Stock>
+<Stock lref="l9">
+	<Prix>39 eur</Prix>
+	<Disponibilite>2</Disponibilite>
+	<Exemplaires>15229</Exemplaires>
+</Stock>
+<Stock lref="l10">
+	<Prix>3 eur</Prix>
+	<Disponibilite>9</Disponibilite>
+	<Exemplaires>24007</Exemplaires>
+</Stock>
+<Stock lref="l11">
+	<Prix>14 eur</Prix>
+	<Disponibilite>17</Disponibilite>
+	<Exemplaires>5881</Exemplaires>
+</Stock>
+<Stock lref="l12">
+	<Prix>23 eur</Prix>
+	<Disponibilite>16</Disponibilite>
+	<Exemplaires>12362</Exemplaires>
+</Stock>
+<Stock lref="l13">
+	<Prix>7 eur</Prix>
+	<Disponibilite>11</Disponibilite>
+	<Exemplaires>24355</Exemplaires>
+</Stock>
+<Stock lref="l14">
+	<Prix>20 eur</Prix>
+	<Disponibilite>13</Disponibilite>
+	<Exemplaires>15984</Exemplaires>
+</Stock>
+<Stock lref="l15">
+	<Prix>20 eur</Prix>
+	<Disponibilite>8</Disponibilite>
+	<Exemplaires>4574</Exemplaires>
+</Stock>
+<Stock lref="l16">
+	<Prix>10 eur</Prix>
+	<Disponibilite>12</Disponibilite>
+	<Exemplaires>16628</Exemplaires>
+</Stock>
+<Stock lref="l17">
+	<Prix>9 eur</Prix>
+	<Disponibilite>8</Disponibilite>
+	<Exemplaires>20698</Exemplaires>
+</Stock>
+<Stock lref="l18">
+	<Prix>37 eur</Prix>
+	<Disponibilite>16</Disponibilite>
+	<Exemplaires>22523</Exemplaires>
+</Stock>
+<Stock lref="l19">
+	<Prix>11 eur</Prix>
+	<Disponibilite>10</Disponibilite>
+	<Exemplaires>23016</Exemplaires>
+</Stock>
+<Stock lref="l20">
+	<Prix>23 eur</Prix>
+	<Disponibilite>10</Disponibilite>
+	<Exemplaires>8827</Exemplaires>
+</Stock>
+<Stock lref="l21">
+	<Prix>28 eur</Prix>
+	<Disponibilite>4</Disponibilite>
+	<Exemplaires>27654</Exemplaires>
+</Stock>
+<Stock lref="l22">
+	<Prix>21 eur</Prix>
+	<Disponibilite>6</Disponibilite>
+	<Exemplaires>23938</Exemplaires>
+</Stock>
+<Stock lref="l23">
+	<Prix>36 eur</Prix>
+	<Disponibilite>6</Disponibilite>
+	<Exemplaires>9648</Exemplaires>
+</Stock>
+<Stock lref="l24">
+	<Prix>16 eur</Prix>
+	<Disponibilite>7</Disponibilite>
+	<Exemplaires>3242</Exemplaires>
+</Stock>
+<Stock lref="l25">
+	<Prix>21 eur</Prix>
+	<Disponibilite>15</Disponibilite>
+	<Exemplaires>7122</Exemplaires>
+</Stock>
+<Stock lref="l26">
+	<Prix>23 eur</Prix>
+	<Disponibilite>13</Disponibilite>
+	<Exemplaires>12357</Exemplaires>
+</Stock>
+<Stock lref="l27">
+	<Prix>13 eur</Prix>
+	<Disponibilite>10</Disponibilite>
+	<Exemplaires>8183</Exemplaires>
+</Stock>
+<Stock lref="l28">
+	<Prix>33 eur</Prix>
+	<Disponibilite>9</Disponibilite>
+	<Exemplaires>12613</Exemplaires>
+</Stock>
+<Stock lref="l29">
+	<Prix>34 eur</Prix>
+	<Disponibilite>18</Disponibilite>
+	<Exemplaires>22714</Exemplaires>
+</Stock>
+<Stock lref="l30">
+	<Prix>23 eur</Prix>
+	<Disponibilite>3</Disponibilite>
+	<Exemplaires>2401</Exemplaires>
+</Stock>
+<Stock lref="l31">
+	<Prix>30 eur</Prix>
+	<Disponibilite>17</Disponibilite>
+	<Exemplaires>21682</Exemplaires>
+</Stock>
+<Stock lref="l32">
+	<Prix>23 eur</Prix>
+	<Disponibilite>20</Disponibilite>
+	<Exemplaires>13426</Exemplaires>
+</Stock>
+<Stock lref="l33">
+	<Prix>7 eur</Prix>
+	<Disponibilite>3</Disponibilite>
+	<Exemplaires>7425</Exemplaires>
+</Stock>
+<Stock lref="l34">
+	<Prix>37 eur</Prix>
+	<Disponibilite>3</Disponibilite>
+	<Exemplaires>10525</Exemplaires>
+</Stock>
+<Stock lref="l35">
+	<Prix>29 eur</Prix>
+	<Disponibilite>9</Disponibilite>
+	<Exemplaires>15044</Exemplaires>
+</Stock>
+<Stock lref="l36">
+	<Prix>40 eur</Prix>
+	<Disponibilite>0</Disponibilite>
+	<Exemplaires>10479</Exemplaires>
+</Stock>
+<Stock lref="l37">
+	<Prix>19 eur</Prix>
+	<Disponibilite>1</Disponibilite>
+	<Exemplaires>9843</Exemplaires>
+</Stock>
+<Stock lref="l38">
+	<Prix>27 eur</Prix>
+	<Disponibilite>2</Disponibilite>
+	<Exemplaires>7108</Exemplaires>
+</Stock>
+<Stock lref="l39">
+	<Prix>36 eur</Prix>
+	<Disponibilite>19</Disponibilite>
+	<Exemplaires>27113</Exemplaires>
+</Stock>
+<Stock lref="l40">
+	<Prix>28 eur</Prix>
+	<Disponibilite>5</Disponibilite>
+	<Exemplaires>870</Exemplaires>
+</Stock>
+<Stock lref="l41">
+	<Prix>28 eur</Prix>
+	<Disponibilite>6</Disponibilite>
+	<Exemplaires>8880</Exemplaires>
+</Stock>
+<Stock lref="l42">
+	<Prix>30 eur</Prix>
+	<Disponibilite>11</Disponibilite>
+	<Exemplaires>6947</Exemplaires>
+</Stock>
+<Stock lref="l43">
+	<Prix>12 eur</Prix>
+	<Disponibilite>17</Disponibilite>
+	<Exemplaires>3009</Exemplaires>
+</Stock>
+<Stock lref="l44">
+	<Prix>25 eur</Prix>
+	<Disponibilite>20</Disponibilite>
+	<Exemplaires>4028</Exemplaires>
+</Stock>
+<Stock lref="l45">
+	<Prix>36 eur</Prix>
+	<Disponibilite>9</Disponibilite>
+	<Exemplaires>4302</Exemplaires>
+</Stock>
+<Stock lref="l46">
+	<Prix>3 eur</Prix>
+	<Disponibilite>5</Disponibilite>
+	<Exemplaires>15465</Exemplaires>
+</Stock>
+<Stock lref="l47">
+	<Prix>31 eur</Prix>
+	<Disponibilite>20</Disponibilite>
+	<Exemplaires>620</Exemplaires>
+</Stock>
+<Stock lref="l48">
+	<Prix>33 eur</Prix>
+	<Disponibilite>7</Disponibilite>
+	<Exemplaires>10803</Exemplaires>
+</Stock>
+<Stock lref="l49">
+	<Prix>16 eur</Prix>
+	<Disponibilite>20</Disponibilite>
+	<Exemplaires>16930</Exemplaires>
+</Stock>
+<Stock lref="l50">
+	<Prix>16 eur</Prix>
+	<Disponibilite>17</Disponibilite>
+	<Exemplaires>11824</Exemplaires>
+</Stock>
+<Stock lref="l51">
+	<Prix>16 eur</Prix>
+	<Disponibilite>10</Disponibilite>
+	<Exemplaires>1460</Exemplaires>
+</Stock>
+<Stock lref="l52">
+	<Prix>33 eur</Prix>
+	<Disponibilite>11</Disponibilite>
+	<Exemplaires>14378</Exemplaires>
+</Stock>
+<Stock lref="l53">
+	<Prix>13 eur</Prix>
+	<Disponibilite>9</Disponibilite>
+	<Exemplaires>26712</Exemplaires>
+</Stock>
+<Stock lref="l54">
+	<Prix>35 eur</Prix>
+	<Disponibilite>15</Disponibilite>
+	<Exemplaires>10842</Exemplaires>
+</Stock>
+<Stock lref="l55">
+	<Prix>9 eur</Prix>
+	<Disponibilite>12</Disponibilite>
+	<Exemplaires>18741</Exemplaires>
+</Stock>
+<Stock lref="l56">
+	<Prix>22 eur</Prix>
+	<Disponibilite>7</Disponibilite>
+	<Exemplaires>7096</Exemplaires>
+</Stock>
+<Stock lref="l57">
+	<Prix>8 eur</Prix>
+	<Disponibilite>0</Disponibilite>
+	<Exemplaires>16468</Exemplaires>
+</Stock>
+<Stock lref="l58">
+	<Prix>38 eur</Prix>
+	<Disponibilite>14</Disponibilite>
+	<Exemplaires>16049</Exemplaires>
+</Stock>
+<Stock lref="l59">
+	<Prix>23 eur</Prix>
+	<Disponibilite>16</Disponibilite>
+	<Exemplaires>12325</Exemplaires>
+</Stock>
+<Stock lref="l60">
+	<Prix>33 eur</Prix>
+	<Disponibilite>2</Disponibilite>
+	<Exemplaires>22981</Exemplaires>
+</Stock>
+<Stock lref="l61">
+	<Prix>30 eur</Prix>
+	<Disponibilite>3</Disponibilite>
+	<Exemplaires>14835</Exemplaires>
+</Stock>
+<Stock lref="l62">
+	<Prix>14 eur</Prix>
+	<Disponibilite>5</Disponibilite>
+	<Exemplaires>9764</Exemplaires>
+</Stock>
+<Stock lref="l63">
+	<Prix>16 eur</Prix>
+	<Disponibilite>14</Disponibilite>
+	<Exemplaires>28871</Exemplaires>
+</Stock>
+<Stock lref="l64">
+	<Prix>14 eur</Prix>
+	<Disponibilite>3</Disponibilite>
+	<Exemplaires>4713</Exemplaires>
+</Stock>
+<Stock lref="l65">
+	<Prix>23 eur</Prix>
+	<Disponibilite>9</Disponibilite>
+	<Exemplaires>440</Exemplaires>
+</Stock>
+<Stock lref="l66">
+	<Prix>29 eur</Prix>
+	<Disponibilite>19</Disponibilite>
+	<Exemplaires>798</Exemplaires>
+</Stock>
+<Stock lref="l67">
+	<Prix>10 eur</Prix>
+	<Disponibilite>12</Disponibilite>
+	<Exemplaires>11553</Exemplaires>
+</Stock>
+<Stock lref="l68">
+	<Prix>30 eur</Prix>
+	<Disponibilite>19</Disponibilite>
+	<Exemplaires>3077</Exemplaires>
+</Stock>
+<Stock lref="l69">
+	<Prix>35 eur</Prix>
+	<Disponibilite>16</Disponibilite>
+	<Exemplaires>22753</Exemplaires>
+</Stock>
+<Stock lref="l70">
+	<Prix>39 eur</Prix>
+	<Disponibilite>18</Disponibilite>
+	<Exemplaires>18500</Exemplaires>
+</Stock>
+<Stock lref="l71">
+	<Prix>23 eur</Prix>
+	<Disponibilite>12</Disponibilite>
+	<Exemplaires>19406</Exemplaires>
+</Stock>

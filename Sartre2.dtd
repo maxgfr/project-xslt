@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Auteur (#PCDATA)>
+<!ATTLIST Auteur
+	aref IDREF #IMPLIED
+>
+<!ELEMENT Auteurs (Perso+)>
+<!ELEMENT Avis (#PCDATA)>
+<!ATTLIST Avis
+	lref IDREF #REQUIRED
+	source CDATA #IMPLIED
+>
+<!ELEMENT Bibliographie (Livres, Auteurs, Commentaires, Gestion)>
+<!ELEMENT Biographie (#PCDATA | p)*>
+<!ELEMENT Collection (#PCDATA)>
+<!ELEMENT Commentaires (Avis+)>
+<!ELEMENT DateDeParution (#PCDATA)>
+<!ELEMENT Deces EMPTY>
+<!ATTLIST Deces
+	annee CDATA "?"
+	mois CDATA "?"
+	jour CDATA "?"
+	lieu CDATA #IMPLIED
+>
+<!ELEMENT Direction (#PCDATA)>
+<!ATTLIST Direction
+	aref IDREF #IMPLIED
+>
+<!ELEMENT Ecrit (#PCDATA)>
+<!ELEMENT Editeur (#PCDATA)>
+<!ELEMENT Format (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT Illustration (#PCDATA)>
+<!ELEMENT Info (#PCDATA)>
+<!ATTLIST Info
+	annee CDATA #IMPLIED
+>
+<!ELEMENT Infos (Info*)>
+<!ELEMENT Livre (Titre, Auteur+, Direction*, Preface*, Postface?, Traduction?, Editeur, DateDeParution?, Collection?, NombreDePages?, Format?, Illustration?, Poids?, ISBN)>
+<!ATTLIST Livre
+	id ID #REQUIRED
+	couverture CDATA #REQUIRED
+	alias IDREF #IMPLIED
+>
+<!ELEMENT Livres (Livre+)>
+<!ELEMENT Naissance EMPTY>
+<!ATTLIST Naissance
+	annee CDATA "?"
+	mois CDATA "?"
+	jour CDATA "?"
+	lieu CDATA "?"
+>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT NombreDePages (#PCDATA)>
+<!ELEMENT Perso (Nom, Prenom, Naissance, Deces?, Biographie, Infos)>
+<!ATTLIST Perso
+	id ID #REQUIRED
+>
+<!ELEMENT Poids (#PCDATA)>
+<!ELEMENT Postface (#PCDATA)>
+<!ATTLIST Postface
+	aref IDREF #REQUIRED
+>
+<!ELEMENT Preface (#PCDATA)>
+<!ATTLIST Preface
+	aref IDREF #IMPLIED
+>
+<!ELEMENT Prenom (#PCDATA)>
+<!ELEMENT Titre (#PCDATA)>
+<!ELEMENT Traduction (#PCDATA)>
+<!ELEMENT p (#PCDATA | Ecrit)*>
+
+<!ELEMENT Gestion (Stock*)>
+<!ELEMENT Stock (Prix*,Disponibilite*,Exemplaires*)>
+<!ELEMENT Prix (#PCDATA)>
+<!ELEMENT Disponibilite (#PCDATA)>
+<!ELEMENT Exemplaires (#PCDATA)>

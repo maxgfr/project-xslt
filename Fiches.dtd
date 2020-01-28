@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Fiches (Fiche*)>
+<!ELEMENT Fiche (Entete,Avis*,Details)>
+<!ELEMENT Entete (Livre,Auteur+,Genre,Format,Parution?,Prix,Disponibilite)>
+<!ELEMENT Avis (#PCDATA)>
+<!ELEMENT Details (NombreDePages?, Taille?, Illustration?, Poids?, Direction*, Preface*, Postface?, Traduction?, Editeur, Collection?, ISBN)>
+<!ELEMENT Livre (#PCDATA)>
+<!ELEMENT Auteur (#PCDATA)>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT Format (#PCDATA)>
+<!ELEMENT Parution (#PCDATA)>
+<!ELEMENT Prix (#PCDATA)>
+<!ELEMENT Disponibilite (#PCDATA)>
+<!ELEMENT NombreDePages (#PCDATA)>
+<!ELEMENT Taille (#PCDATA)>
+<!ELEMENT Illustration (#PCDATA)>
+<!ELEMENT Poids (#PCDATA)>
+<!ELEMENT Direction (#PCDATA)>
+<!ELEMENT Preface (#PCDATA)>
+<!ELEMENT Postface (#PCDATA)>
+<!ELEMENT Traduction (#PCDATA)>
+<!ELEMENT Editeur (#PCDATA)>
+<!ELEMENT Collection (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ATTLIST Fiches 
+dateGeneration CDATA #REQUIRED>
+<!ATTLIST Fiche
+id ID #REQUIRED>
+<!ATTLIST Avis
+source CDATA #REQUIRED>

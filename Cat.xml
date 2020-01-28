@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Livres>
+   <Livre id="l1" couverture_id="c1.jpg">
+      <General>
+         <Nom>Les Mains sales   - Pièce en 7 tableaux</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>39 eur</Prix>
+         <Disponibilite>7</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>245</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070368068</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l2" couverture_id="c2.jpg">
+      <General>
+         <Nom>Les mots</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>13 cm x 18 cm</Format>
+         <Prix>29 eur</Prix>
+         <Disponibilite>3</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>128</NombreDePages>
+         <Taille />
+         <Illustration>Illustrations noir et blanc</Illustration>
+         <Postface />
+         <Traduction />
+         <Editeur>Hatier</Editeur>
+         <ISBN>2218750910</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l3" couverture_id="c3.jpg">
+      <General>
+         <Nom>Théâtre complet</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>27 eur</Prix>
+         <Disponibilite>20</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070115283</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l4" couverture_id="c4.jpg">
+      <General>
+         <Nom>L'existentialisme est un humanisme</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>4 eur</Prix>
+         <Disponibilite>6</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>108</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Arlette Elkaim-Sartre</Direction>
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070329135</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l5" couverture_id="c5.jpg">
+      <General>
+         <Nom>La nausée</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>6 eur</Prix>
+         <Disponibilite>11</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>247</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207036805X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l6" couverture_id="c6.jpg">
+      <General>
+         <Nom>Les mots</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>21 eur</Prix>
+         <Disponibilite>20</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>214</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070366073</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l7" couverture_id="c7.jpg">
+      <General>
+         <Nom>Huis clos   - Suivi de Les Mouches</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>13 eur</Prix>
+         <Disponibilite>0</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>245</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070368076</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l8" couverture_id="c8.jpg">
+      <General>
+         <Nom>Réflexions sur la question juive</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>33 eur</Prix>
+         <Disponibilite>16</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>192</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070322874</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l9" couverture_id="c9.jpg">
+      <General>
+         <Nom>Les Séquestrés d'Altona  - Pièce en cinq actes</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>39 eur</Prix>
+         <Disponibilite>2</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>378</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070369382</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l10" couverture_id="c10.jpg">
+      <General>
+         <Nom>La P... respectueuse  - Suivi de Morts sans sépulture (Pièce en 2 actes et 4 tableaux)</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>3 eur</Prix>
+         <Disponibilite>9</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>208</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070368688</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l11" couverture_id="c11.jpg">
+      <General>
+         <Nom>Le Diable et le bon Dieu  - Trois actes et onze tableaux</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>14 eur</Prix>
+         <Disponibilite>17</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>252</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070368696</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l12" couverture_id="c12.jpg">
+      <General>
+         <Nom>Nekrassov</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>23 eur</Prix>
+         <Disponibilite>16</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070364313</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l13" couverture_id="c13.jpg">
+      <General>
+         <Nom>Le Mur</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>7 eur</Prix>
+         <Disponibilite>11</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070368785</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l14" couverture_id="c14.jpg">
+      <General>
+         <Nom>L'Age de raison   - Chemins de la liberté T1</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>20 eur</Prix>
+         <Disponibilite>13</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>376</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207036870X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l15" couverture_id="c15.jpg">
+      <General>
+         <Nom>Philosophes  - Coffret T2 5 Volumes</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>20 eur</Prix>
+         <Disponibilite>8</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Milan Eds</Editeur>
+         <ISBN>2745914502</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l16" couverture_id="c16.jpg">
+      <General>
+         <Nom>L'imagination</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>13 cm x 19 cm</Format>
+         <Prix>10 eur</Prix>
+         <Disponibilite>12</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>170</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Puf</Editeur>
+         <ISBN>2130539009</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l17" couverture_id="c17.jpg">
+      <General>
+         <Nom>L'enfance d'un chef</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>9 eur</Prix>
+         <Disponibilite>8</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>129</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207030406X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l18" couverture_id="c18.jpg">
+      <General>
+         <Nom>Situations  - T3</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 21 cm</Format>
+         <Prix>37 eur</Prix>
+         <Disponibilite>16</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070768805</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l19" couverture_id="c19.jpg">
+      <General>
+         <Nom>Situations 2</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>11 eur</Prix>
+         <Disponibilite>10</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070755606</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l20" couverture_id="c20.jpg">
+      <General>
+         <Nom>La Mort dans l'âme  - Chemins de la liberté T3</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>23 eur</Prix>
+         <Disponibilite>10</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207036058X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l21" couverture_id="c21.jpg">
+      <General>
+         <Nom>Qu'est-ce que la littérature?</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>28 eur</Prix>
+         <Disponibilite>4</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>374</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070323064</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l22" couverture_id="c22.jpg">
+      <General>
+         <Nom>Mallarmé  - la lucidité et sa face d'ombre</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>21 eur</Prix>
+         <Disponibilite>6</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>170</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070706869</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l23" couverture_id="c23.jpg">
+      <General>
+         <Nom>Situations  - Essais critiques</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>36 eur</Prix>
+         <Disponibilite>6</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>314</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257622</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l24" couverture_id="c24.jpg">
+      <General>
+         <Nom>La Mort dans l'âme  - Chemins de la liberté T3</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 21 cm</Format>
+         <Prix>16 eur</Prix>
+         <Disponibilite>7</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>296</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257665</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l25" couverture_id="c25.jpg">
+      <General>
+         <Nom>La Nausée</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>21 eur</Prix>
+         <Disponibilite>15</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>230</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257533</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l26" couverture_id="c26.jpg">
+      <General>
+         <Nom>Le Sursis  - Chemins de la liberté T2</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>23 eur</Prix>
+         <Disponibilite>13</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>434</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070368661</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l27" couverture_id="c27.jpg">
+      <General>
+         <Nom>Portrait du colonisé (précédé de) Portrait du colonisateur</Nom>
+         <Auteur>Albert Memmi</Auteur>
+         <Format />
+         <Prix>13 eur</Prix>
+         <Disponibilite>10</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>163</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070705501</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l28" couverture_id="c28.jpg">
+      <General>
+         <Nom>La responsabilité de l'écrivain</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 22 cm</Format>
+         <Prix>33 eur</Prix>
+         <Disponibilite>9</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>60</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Verdier</Editeur>
+         <ISBN>2864322986</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l29" couverture_id="c29.jpg">
+      <General>
+         <Nom>Le Mur</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>34 eur</Prix>
+         <Disponibilite>18</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>222</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257541</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l30" couverture_id="c30.jpg">
+      <General>
+         <Nom>L'Age de raison  - Chemins de la liberté T1</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 21 cm</Format>
+         <Prix>23 eur</Prix>
+         <Disponibilite>3</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>310</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257584</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l31" couverture_id="c31.jpg">
+      <General>
+         <Nom>Le Diable et le bon Dieu</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>30 eur</Prix>
+         <Disponibilite>17</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>288</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257673</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l32" couverture_id="c32.jpg">
+      <General>
+         <Nom>Esquisse d'une théorie des émotions</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>23 eur</Prix>
+         <Disponibilite>20</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>68</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Hermann</Editeur>
+         <ISBN>2705651780</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l33" couverture_id="c33.jpg">
+      <General>
+         <Nom>L'engrenage</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>7 eur</Prix>
+         <Disponibilite>3</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>178</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070394816</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l34" couverture_id="c34.jpg">
+      <General>
+         <Nom>Les jeux sont faits</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>37 eur</Prix>
+         <Disponibilite>3</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>164</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070394824</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l35" couverture_id="c35.jpg">
+      <General>
+         <Nom>Les carnets de la drôle de guerre - Septembre 1939 - Mars 1940</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 20 cm</Format>
+         <Prix>29 eur</Prix>
+         <Disponibilite>9</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>673</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070737802</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l36" couverture_id="c36.jpg">
+      <General>
+         <Nom>Problèmes du marxisme  - 1ere partieSituations T6</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>40 eur</Prix>
+         <Disponibilite>0</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>392</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257762</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l37" couverture_id="c37.jpg">
+      <General>
+         <Nom>Théâtre  - T1</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 20 cm</Format>
+         <Prix>19 eur</Prix>
+         <Disponibilite>1</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257606</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l38" couverture_id="c38.jpg">
+      <General>
+         <Nom>Critiques littéraires</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>27 eur</Prix>
+         <Disponibilite>2</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>320</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070327825</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l39" couverture_id="c39.jpg">
+      <General>
+         <Nom>Un theatre de situations</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>36 eur</Prix>
+         <Disponibilite>19</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070326918</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l40" couverture_id="c40.jpg">
+      <General>
+         <Nom>La reine albemarle ou le dernier touriste</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>28 eur</Prix>
+         <Disponibilite>5</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070723739</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l41" couverture_id="c41.jpg">
+      <General>
+         <Nom>La nausée</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>28 eur</Prix>
+         <Disponibilite>6</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>247</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207036805X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l42" couverture_id="c42.jpg">
+      <General>
+         <Nom>Situations philosophiques</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>13 cm x 19 cm</Format>
+         <Prix>30 eur</Prix>
+         <Disponibilite>11</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070720896</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l43" couverture_id="c43.jpg">
+      <General>
+         <Nom>L'Espoir maintenant  - les entretiens de 1980</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 22 cm</Format>
+         <Prix>12 eur</Prix>
+         <Disponibilite>17</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>104</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Verdier</Editeur>
+         <ISBN>2864321297</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l44" couverture_id="c44.jpg">
+      <General>
+         <Nom>Ecrits de jeunesse</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>25 eur</Prix>
+         <Disponibilite>20</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070719758</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l45" couverture_id="c45.jpg">
+      <General>
+         <Nom>Lettres au Castor et à quelques autres  - Lettres au Castor et à quelques autres T2</Nom>
+         <Auteur>Simone de Beauvoir</Auteur>
+         <Format />
+         <Prix>36 eur</Prix>
+         <Disponibilite>9</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>372</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070700399</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l46" couverture_id="c46.jpg">
+      <General>
+         <Nom>Vérité et existence</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 21 cm</Format>
+         <Prix>3 eur</Prix>
+         <Disponibilite>5</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>142</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070717267</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l47" couverture_id="c47.jpg">
+      <General>
+         <Nom>La dialectique du concret</Nom>
+         <Auteur>Karel Kosik</Auteur>
+         <Format>13 cm x 21 cm</Format>
+         <Prix>31 eur</Prix>
+         <Disponibilite>20</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>172</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Georges Haupt</Direction>
+         <Direction>Jean-Marie Brohm</Direction>
+         <Postface>Jean-Paul Sartre</Postface>
+         <Traduction>Roger Dangeville</Traduction>
+         <Editeur>La Passion Eds De</Editeur>
+         <ISBN>2906229059</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l48" couverture_id="c48.jpg">
+      <General>
+         <Nom>Baudelaire</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>33 eur</Prix>
+         <Disponibilite>7</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>184</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070324931</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l49" couverture_id="c49.jpg">
+      <General>
+         <Nom>Le Scénario Freud</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>16 eur</Prix>
+         <Disponibilite>20</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>592</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207070159X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l50" couverture_id="c50.jpg">
+      <General>
+         <Nom>L'être et le néant  - Essai d'ontologie phénoménologique</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>13 cm x 19 cm</Format>
+         <Prix>16 eur</Prix>
+         <Disponibilite>17</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>704</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070293882</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l51" couverture_id="c51.jpg">
+      <General>
+         <Nom>Kean</Nom>
+         <Auteur>Alexandre Dumas</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>16 eur</Prix>
+         <Disponibilite>10</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>312</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Jean-Paul Sartre</Direction>
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070220559</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l52" couverture_id="c52.jpg">
+      <General>
+         <Nom>Les Mains sales</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>33 eur</Prix>
+         <Disponibilite>11</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>258</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257649</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l53" couverture_id="c53.jpg">
+      <General>
+         <Nom>Les Mots</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>13 eur</Prix>
+         <Disponibilite>9</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>224</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257738</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l54" couverture_id="c54.jpg">
+      <General>
+         <Nom>Les Séquestrés d'Altona</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 19 cm</Format>
+         <Prix>35 eur</Prix>
+         <Disponibilite>15</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>232</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070257703</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l55" couverture_id="c55.jpg">
+      <General>
+         <Nom>Lettres au Castor  - Et à quelques autres</Nom>
+         <Auteur>Simone de Beauvoir</Auteur>
+         <Format />
+         <Prix>9 eur</Prix>
+         <Disponibilite>12</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>528</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>207026078X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l56" couverture_id="c56.jpg">
+      <General>
+         <Nom>Portrait de l'aventurier  - T. E. Lawrence Malraux Von Salomon et la vie exemplaire de L.-N. Rossel</Nom>
+         <Auteur>Roger Stephane</Auteur>
+         <Format />
+         <Prix>22 eur</Prix>
+         <Disponibilite>7</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>333</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Grasset</Editeur>
+         <ISBN>224630072X</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l57" couverture_id="c57.jpg">
+      <General>
+         <Nom>La trenscendance de l'égo  - Et autres textes, phénoménolies</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>8 eur</Prix>
+         <Disponibilite>0</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Vrin</Editeur>
+         <ISBN>2711616487</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l58" couverture_id="c58.jpg">
+      <General>
+         <Nom>Paul Rebeyrolle  - Exposition 15 avril - 25 juin 2000</Nom>
+         <Auteur>Fondation Maeght</Auteur>
+         <Format>22 cm x 26 cm</Format>
+         <Prix>38 eur</Prix>
+         <Disponibilite>14</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>172</NombreDePages>
+         <Taille />
+         <Illustration>Photos couleur</Illustration>
+         <Postface />
+         <Traduction />
+         <Editeur>Maeght</Editeur>
+         <ISBN>2900923212</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l59" couverture_id="c59.jpg">
+      <General>
+         <Nom>Calder  - Mobiles, stabiles</Nom>
+         <Auteur>Jacques Prévert</Auteur>
+         <Format />
+         <Prix>23 eur</Prix>
+         <Disponibilite>16</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>115</NombreDePages>
+         <Taille />
+         <Illustration>Illustrations couleur</Illustration>
+         <Postface />
+         <Traduction />
+         <Editeur>Maeght</Editeur>
+         <ISBN>2869412096</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l60" couverture_id="c60.jpg">
+      <General>
+         <Nom>La transcendance de l'ego  - Esquisse d'une description phénoménologique</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>33 eur</Prix>
+         <Disponibilite>2</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>136</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Vrin</Editeur>
+         <ISBN>2711606767</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l61" couverture_id="c61.jpg">
+      <General>
+         <Nom>Giacometti  - Oeuvre gravé</Nom>
+         <Auteur>Jean Genet</Auteur>
+         <Format />
+         <Prix>30 eur</Prix>
+         <Disponibilite>3</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>93</NombreDePages>
+         <Taille />
+         <Illustration>Illustrations couleur</Illustration>
+         <Postface />
+         <Traduction />
+         <Editeur>Maeght</Editeur>
+         <ISBN>2869411170</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l62" couverture_id="c62.jpg">
+      <General>
+         <Nom>Oeuvres romanesques</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>14 eur</Prix>
+         <Disponibilite>5</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>2288</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Michel Contat</Direction>
+         <Direction>Michel Rybalka</Direction>
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070110028</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l63" couverture_id="c63.jpg">
+      <General>
+         <Nom>Villes d'Amérique, New York ville coloniale, Venise de ma fenêtre</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>12 cm x 17 cm</Format>
+         <Prix>16 eur</Prix>
+         <Disponibilite>14</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>61</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Jean-Pierre Le Dantec</Direction>
+         <Postface />
+         <Traduction />
+         <Editeur>Patrimoine Eds Du</Editeur>
+         <ISBN>2858227020</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l64" couverture_id="c64.jpg">
+      <General>
+         <Nom>Anthologie de la nouvelle poésie nègre et malgache de langue française  - Précédé de Orphée noir</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>13 cm x 19 cm</Format>
+         <Prix>14 eur</Prix>
+         <Disponibilite>3</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>272</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Léopold Sédar Senghor</Direction>
+         <Direction>Charles-André Julien</Direction>
+         <Postface />
+         <Traduction />
+         <Editeur>Puf</Editeur>
+         <ISBN>2130520413</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l65" couverture_id="c65.jpg">
+      <General>
+         <Nom>La mauvaise foi</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>13 cm x 19 cm</Format>
+         <Prix>23 eur</Prix>
+         <Disponibilite>9</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages />
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Hatier</Editeur>
+         <ISBN>2218733943</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l66" couverture_id="c66.jpg">
+      <General>
+         <Nom>Esquisse d'une théorie des émotions</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>29 eur</Prix>
+         <Disponibilite>19</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>124</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Lgf</Editeur>
+         <ISBN>2253904651</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l67" couverture_id="c67.jpg">
+      <General>
+         <Nom>Questions de méthode</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format />
+         <Prix>10 eur</Prix>
+         <Disponibilite>12</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>164</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070707679</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l68" couverture_id="c68.jpg">
+      <General>
+         <Nom>Critique de la raison dialectique  - T2 L'intelligibilité de l'histoire (inachevé)</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 23 cm</Format>
+         <Prix>30 eur</Prix>
+         <Disponibilite>19</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>469</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070705250</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l69" couverture_id="c69.jpg">
+      <General>
+         <Nom>Critique de la raison dialectique  - T1 Théorie des ensembles pratiques et Questions de méthode</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 23 cm</Format>
+         <Prix>35 eur</Prix>
+         <Disponibilite>16</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>921</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Direction>Arlette Elkaim-Sartre</Direction>
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070704939</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l70" couverture_id="c70.jpg">
+      <General>
+         <Nom>Saint Genet comédien et martyr  - Oeuvres complètes T1</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>14 cm x 21 cm</Format>
+         <Prix>39 eur</Prix>
+         <Disponibilite>18</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>692</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070227235</ISBN>
+      </Informations>
+   </Livre>
+   <Livre id="l71" couverture_id="c71.jpg">
+      <General>
+         <Nom>L'Imaginaire  - Psychologie phénoménologique de l'imaginaire</Nom>
+         <Auteur>Jean-Paul Sartre</Auteur>
+         <Format>11 cm x 18 cm</Format>
+         <Prix>23 eur</Prix>
+         <Disponibilite>12</Disponibilite>
+      </General>
+      <Informations>
+         <NombreDePages>384</NombreDePages>
+         <Taille />
+         <Illustration />
+         <Postface />
+         <Traduction />
+         <Editeur>Gallimard</Editeur>
+         <ISBN>2070323749</ISBN>
+      </Informations>
+   </Livre>
+</Livres>

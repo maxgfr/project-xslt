@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliographie>
+	<Livres>
+		<Livre id="l1" couverture="c1.jpg" alias="l52">
+			<Titre>Les Mains sales   - Pièce en 7 tableaux</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 806</Collection>
+			<NombreDePages>245</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070368068</ISBN>
+		</Livre>
+		<Livre id="l2" couverture="c2.jpg" alias="l53">
+			<Titre>Les mots</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Hatier</Editeur>
+			<DateDeParution>08/2005</DateDeParution>
+			<Collection>Profil Litterature</Collection>
+			<NombreDePages>128</NombreDePages>
+			<Format>13 cm x 18 cm</Format>
+			<Illustration>Illustrations noir et blanc</Illustration>
+			<ISBN>2218750910</ISBN>
+		</Livre>
+		<Livre id="l3" couverture="c3.jpg">
+			<Titre>Théâtre complet</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>03/2005</DateDeParution>
+			<Collection>Pleiade Bibliotheque</Collection>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070115283</ISBN>
+		</Livre>
+		<Livre id="l4" couverture="c4.jpg">
+			<Titre>L'existentialisme est un humanisme</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Direction aref="a5">Arlette Elkaim-Sartre</Direction>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1996</DateDeParution>
+			<Collection>Folio Essais, numéro 284</Collection>
+			<NombreDePages>108</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070329135</ISBN>
+		</Livre>
+		<Livre id="l5" couverture="c5.jpg" alias="l41">
+			<Titre>La nausée</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1991</DateDeParution>
+			<Collection>Folio, numéro 805</Collection>
+			<NombreDePages>247</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>207036805X</ISBN>
+		</Livre>
+		<Livre id="l6" couverture="c6.jpg" alias="l53">
+			<Titre>Les mots</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1991</DateDeParution>
+			<Collection>Folio, numéro 607</Collection>
+			<NombreDePages>214</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070366073</ISBN>
+		</Livre>
+		<Livre id="l7" couverture="c7.jpg">
+			<Titre>Huis clos   - Suivi de Les Mouches</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1991</DateDeParution>
+			<Collection>Folio, numéro 807</Collection>
+			<NombreDePages>245</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070368076</ISBN>
+		</Livre>
+		<Livre id="l8" couverture="c8.jpg">
+			<Titre>Réflexions sur la question juive</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio Essais, numéro 10</Collection>
+			<NombreDePages>192</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070322874</ISBN>
+		</Livre>
+		<Livre id="l9" couverture="c9.jpg">
+			<Titre>Les Séquestrés d'Altona  - Pièce en cinq actes</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 938</Collection>
+			<NombreDePages>378</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070369382</ISBN>
+		</Livre>
+		<Livre id="l10" couverture="c10.jpg">
+			<Titre>La P... respectueuse  - Suivi de Morts sans sépulture (Pièce en 2 actes et 4 tableaux)</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 868</Collection>
+			<NombreDePages>208</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070368688</ISBN>
+		</Livre>
+		<Livre id="l11" couverture="c11.jpg">
+			<Titre>Le Diable et le bon Dieu  - Trois actes et onze tableaux</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 869</Collection>
+			<NombreDePages>252</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070368696</ISBN>
+		</Livre>
+		<Livre id="l12" couverture="c12.jpg">
+			<Titre>Nekrassov</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 431</Collection>
+			<Format>11 cm x 18 cm</Format>
+			<Poids>160 grammes</Poids>
+			<ISBN>2070364313</ISBN>
+		</Livre>
+		<Livre id="l13" couverture="c13.jpg">
+			<Titre>Le Mur</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 878</Collection>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070368785</ISBN>
+		</Livre>
+		<Livre id="l14" couverture="c14.jpg">
+			<Titre>L'Age de raison   - Chemins de la liberté T1</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 870</Collection>
+			<NombreDePages>376</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>207036870X</ISBN>
+		</Livre>
+		<Livre id="l15" couverture="c15.jpg">
+			<Titre>Philosophes  - Coffret T2 5 Volumes</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a3">Georg Wilhelm Friedrich Hegel</Auteur>
+			<Editeur>Milan Eds</Editeur>
+			<DateDeParution>05/2004</DateDeParution>
+			<Collection>Essentiels</Collection>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2745914502</ISBN>
+		</Livre>
+		<Livre id="l16" couverture="c16.jpg">
+			<Titre>L'imagination</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Puf</Editeur>
+			<DateDeParution>11/2003</DateDeParution>
+			<Collection>Quadrige, numéro 1</Collection>
+			<NombreDePages>170</NombreDePages>
+			<Format>13 cm x 19 cm</Format>
+			<ISBN>2130539009</ISBN>
+		</Livre>
+		<Livre id="l17" couverture="c17.jpg">
+			<Titre>L'enfance d'un chef</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>10/2003</DateDeParution>
+			<Collection>Folio 2 Euros</Collection>
+			<NombreDePages>129</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>207030406X</ISBN>
+		</Livre>
+		<Livre id="l18" couverture="c18.jpg">
+			<Titre>Situations  - T3</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>04/2003</DateDeParution>
+			<Collection>Blanche</Collection>
+			<Format>14 cm x 21 cm</Format>
+			<ISBN>2070768805</ISBN>
+		</Livre>
+		<Livre id="l19" couverture="c19.jpg">
+			<Titre>Situations 2</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>09/1999</DateDeParution>
+			<Collection>Blanche</Collection>
+			<ISBN>2070755606</ISBN>
+		</Livre>
+		<Livre id="l20" couverture="c20.jpg">
+			<Titre>La Mort dans l'âme  - Chemins de la liberté T3</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 58</Collection>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>207036058X</ISBN>
+		</Livre>
+		<Livre id="l21" couverture="c21.jpg">
+			<Titre>Qu'est-ce que la littérature?</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio Essais, numéro 19</Collection>
+			<NombreDePages>374</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070323064</ISBN>
+		</Livre>
+		<Livre id="l22" couverture="c22.jpg">
+			<Titre>Mallarmé  - la lucidité et sa face d'ombre</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Arcades</Collection>
+			<NombreDePages>170</NombreDePages>
+			<ISBN>2070706869</ISBN>
+		</Livre>
+		<Livre id="l23" couverture="c23.jpg">
+			<Titre>Situations  - Essais critiques</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<NombreDePages>314</NombreDePages>
+			<ISBN>2070257622</ISBN>
+		</Livre>
+		<Livre id="l24" couverture="c24.jpg">
+			<Titre>La Mort dans l'âme  - Chemins de la liberté T3</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>296</NombreDePages>
+			<Format>14 cm x 21 cm</Format>
+			<ISBN>2070257665</ISBN>
+		</Livre>
+		<Livre id="l25" couverture="c25.jpg" alias="l41">
+			<Titre>La Nausée</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>230</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070257533</ISBN>
+		</Livre>
+		<Livre id="l26" couverture="c26.jpg">
+			<Titre>Le Sursis  - Chemins de la liberté T2</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Folio, numéro 866</Collection>
+			<NombreDePages>434</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070368661</ISBN>
+		</Livre>
+		<Livre id="l27" couverture="c27.jpg">
+			<Titre>Portrait du colonisé (précédé de) Portrait du colonisateur</Titre>
+			<Auteur aref="a6">Albert Memmi</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>163</NombreDePages>
+			<ISBN>2070705501</ISBN>
+		</Livre>
+		<Livre id="l28" couverture="c28.jpg">
+			<Titre>La responsabilité de l'écrivain</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Verdier</Editeur>
+			<DateDeParution>10/1998</DateDeParution>
+			<Collection>Philosophie</Collection>
+			<NombreDePages>60</NombreDePages>
+			<Format>14 cm x 22 cm</Format>
+			<ISBN>2864322986</ISBN>
+		</Livre>
+		<Livre id="l29" couverture="c29.jpg">
+			<Titre>Le Mur</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>222</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070257541</ISBN>
+		</Livre>
+		<Livre id="l30" couverture="c30.jpg">
+			<Titre>L'Age de raison  - Chemins de la liberté T1</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>310</NombreDePages>
+			<Format>14 cm x 21 cm</Format>
+			<ISBN>2070257584</ISBN>
+		</Livre>
+		<Livre id="l31" couverture="c31.jpg">
+			<Titre>Le Diable et le bon Dieu</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>288</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070257673</ISBN>
+		</Livre>
+		<Livre id="l32" couverture="c32.jpg" alias="l66">
+			<Titre>Esquisse d'une théorie des émotions</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Hermann</Editeur>
+			<Collection>Esprit Et La Main, numéro 5178</Collection>
+			<NombreDePages>68</NombreDePages>
+			<ISBN>2705651780</ISBN>
+		</Livre>
+		<Livre id="l33" couverture="c33.jpg">
+			<Titre>L'engrenage</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>02/1996</DateDeParution>
+			<Collection>Folio, numéro 2804</Collection>
+			<NombreDePages>178</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070394816</ISBN>
+		</Livre>
+		<Livre id="l34" couverture="c34.jpg">
+			<Titre>Les jeux sont faits</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>02/1996</DateDeParution>
+			<Collection>Folio, numéro 2805</Collection>
+			<NombreDePages>164</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070394824</ISBN>
+		</Livre>
+		<Livre id="l35" couverture="c35.jpg">
+			<Titre>Les carnets de la drôle de guerre - Septembre 1939 - Mars 1940</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>02/1995</DateDeParution>
+			<Collection>Blanche</Collection>
+			<NombreDePages>673</NombreDePages>
+			<Format>14 cm x 20 cm</Format>
+			<ISBN>2070737802</ISBN>
+		</Livre>
+		<Livre id="l36" couverture="c36.jpg">
+			<Titre>Problèmes du marxisme  - 1ere partieSituations T6</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<NombreDePages>392</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070257762</ISBN>
+		</Livre>
+		<Livre id="l37" couverture="c37.jpg">
+			<Titre>Théâtre  - T1</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>06/1993</DateDeParution>
+			<Collection>Blanche</Collection>
+			<Format>14 cm x 20 cm</Format>
+			<ISBN>2070257606</ISBN>
+		</Livre>
+		<Livre id="l38" couverture="c38.jpg">
+			<Titre>Critiques littéraires</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>03/1993</DateDeParution>
+			<Collection>Folio Essais, numéro 223</Collection>
+			<NombreDePages>320</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070327825</ISBN>
+		</Livre>
+		<Livre id="l39" couverture="c39.jpg">
+			<Titre>Un theatre de situations</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a7">Michel Contat</Auteur>
+			<Auteur>Michel Rybalka</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>05/1992</DateDeParution>
+			<Collection>Folio Essais, numéro 192</Collection>
+			<ISBN>2070326918</ISBN>
+		</Livre>
+		<Livre id="l40" couverture="c40.jpg">
+			<Titre>La reine albemarle ou le dernier touriste</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>10/1991</DateDeParution>
+			<Collection>Blanche</Collection>
+			<ISBN>2070723739</ISBN>
+		</Livre>
+		<Livre id="l41" couverture="c41.jpg">
+			<Titre>La nausée</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1991</DateDeParution>
+			<Collection>Folio, numéro 805</Collection>
+			<NombreDePages>247</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>207036805X</ISBN>
+		</Livre>
+		<Livre id="l42" couverture="c42.jpg">
+			<Titre>Situations philosophiques</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1991</DateDeParution>
+			<Collection>Tel, numéro 171</Collection>
+			<Format>13 cm x 19 cm</Format>
+			<ISBN>2070720896</ISBN>
+		</Livre>
+		<Livre id="l43" couverture="c43.jpg">
+			<Titre>L'Espoir maintenant  - les entretiens de 1980</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a4">Benny Lévy</Auteur>
+			<Editeur>Verdier</Editeur>
+			<DateDeParution>01/1991</DateDeParution>
+			<NombreDePages>104</NombreDePages>
+			<Format>14 cm x 22 cm</Format>
+			<ISBN>2864321297</ISBN>
+		</Livre>
+		<Livre id="l44" couverture="c44.jpg">
+			<Titre>Ecrits de jeunesse</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a7">Michel Contat</Auteur>
+			<Auteur>Michel Rybalka</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>11/1990</DateDeParution>
+			<Collection>Blanche</Collection>
+			<ISBN>2070719758</ISBN>
+		</Livre>
+		<Livre id="l45" couverture="c45.jpg">
+			<Titre>Lettres au Castor et à quelques autres  - Lettres au Castor et à quelques autres T2</Titre>
+			<Auteur aref="a2">Simone de Beauvoir</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>372</NombreDePages>
+			<ISBN>2070700399</ISBN>
+		</Livre>
+		<Livre id="l46" couverture="c46.jpg">
+			<Titre>Vérité et existence</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a5">Arlette Elkaim-Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1989</DateDeParution>
+			<Collection>Nrf Essais</Collection>
+			<NombreDePages>142</NombreDePages>
+			<Format>14 cm x 21 cm</Format>
+			<ISBN>2070717267</ISBN>
+		</Livre>
+		<Livre id="l47" couverture="c47.jpg">
+			<Titre>La dialectique du concret</Titre>
+			<Auteur>Karel Kosik</Auteur>
+			<Preface>Georges Haupt</Preface>
+			<Preface>Jean-Marie Brohm</Preface>
+			<Postface aref="a1">Jean-Paul Sartre</Postface>
+			<Traduction>Roger Dangeville</Traduction>
+			<Editeur>La Passion Eds De</Editeur>
+			<DateDeParution>12/1988</DateDeParution>
+			<NombreDePages>172</NombreDePages>
+			<Format>13 cm x 21 cm</Format>
+			<ISBN>2906229059</ISBN>
+		</Livre>
+		<Livre id="l48" couverture="c48.jpg">
+			<Titre>Baudelaire</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1988</DateDeParution>
+			<Collection>Folio Essais, numéro 105</Collection>
+			<NombreDePages>184</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070324931</ISBN>
+		</Livre>
+		<Livre id="l49" couverture="c49.jpg">
+			<Titre>Le Scénario Freud</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur>Jean-Bertrand Pontalis</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1984</DateDeParution>
+			<Collection>Connaissance de l'inconscient</Collection>
+			<NombreDePages>592</NombreDePages>
+			<ISBN>207070159X</ISBN>
+		</Livre>
+		<Livre id="l50" couverture="c50.jpg">
+			<Titre>L'être et le néant  - Essai d'ontologie phénoménologique</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>11/1976</DateDeParution>
+			<Collection>Tel, numéro 1</Collection>
+			<NombreDePages>704</NombreDePages>
+			<Format>13 cm x 19 cm</Format>
+			<ISBN>2070293882</ISBN>
+		</Livre>
+		<Livre id="l51" couverture="c51.jpg">
+			<Titre>Kean</Titre>
+			<Auteur aref="a8">Alexandre Dumas</Auteur>
+			<Preface aref="a1">Jean-Paul Sartre</Preface>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>312</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070220559</ISBN>
+		</Livre>
+		<Livre id="l52" couverture="c52.jpg">
+			<Titre>Les Mains sales</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>258</NombreDePages>
+			<ISBN>2070257649</ISBN>
+		</Livre>
+		<Livre id="l53" couverture="c53.jpg">
+			<Titre>Les Mots</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>224</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070257738</ISBN>
+		</Livre>
+		<Livre id="l54" couverture="c54.jpg">
+			<Titre>Les Séquestrés d'Altona</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>232</NombreDePages>
+			<Format>12 cm x 19 cm</Format>
+			<ISBN>2070257703</ISBN>
+		</Livre>
+		<Livre id="l55" couverture="c55.jpg">
+			<Titre>Lettres au Castor  - Et à quelques autres</Titre>
+			<Auteur aref="a2">Simone de Beauvoir</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Blanche</Collection>
+			<NombreDePages>528</NombreDePages>
+			<ISBN>207026078X</ISBN>
+		</Livre>
+		<Livre id="l56" couverture="c56.jpg">
+			<Titre>Portrait de l'aventurier  - T. E. Lawrence Malraux Von Salomon et la vie exemplaire de L.-N. Rossel</Titre>
+			<Auteur>Roger Stephane</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Grasset</Editeur>
+			<NombreDePages>333</NombreDePages>
+			<ISBN>224630072X</ISBN>
+		</Livre>
+		<Livre id="l57" couverture="c57.jpg" alias="l60">
+			<Titre>La trenscendance de l'égo  - Et autres textes, phénoménolies</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Vrin</Editeur>
+			<DateDeParution>11/2003</DateDeParution>
+			<Collection>Textes et Commentaires</Collection>
+			<ISBN>2711616487</ISBN>
+		</Livre>
+		<Livre id="l58" couverture="c58.jpg">
+			<Titre>Paul Rebeyrolle  - Exposition 15 avril - 25 juin 2000</Titre>
+			<Auteur>Fondation Maeght</Auteur>
+			<Auteur>Jean-Louis Prat</Auteur>
+			<Auteur>Francis Marmande</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Maeght</Editeur>
+			<DateDeParution>05/2000</DateDeParution>
+			<Collection>Fondation</Collection>
+			<NombreDePages>172</NombreDePages>
+			<Format>22 cm x 26 cm</Format>
+			<Illustration>Photos couleur</Illustration>
+			<ISBN>2900923212</ISBN>
+		</Livre>
+		<Livre id="l59" couverture="c59.jpg">
+			<Titre>Calder  - Mobiles, stabiles</Titre>
+			<Auteur aref="a9">Jacques Prévert</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur>Michel Butor</Auteur>
+			<Editeur>Maeght</Editeur>
+			<Collection>Carnets De Voyage</Collection>
+			<NombreDePages>115</NombreDePages>
+			<Illustration>Illustrations couleur</Illustration>
+			<ISBN>2869412096</ISBN>
+		</Livre>
+		<Livre id="l60" couverture="c60.jpg">
+			<Titre>La transcendance de l'ego  - Esquisse d'une description phénoménologique</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Vrin</Editeur>
+			<DateDeParution>01/1990</DateDeParution>
+			<Collection>Textes Philo Poche</Collection>
+			<NombreDePages>136</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2711606767</ISBN>
+		</Livre>
+		<Livre id="l61" couverture="c61.jpg">
+			<Titre>Giacometti  - Oeuvre gravé</Titre>
+			<Auteur>Jean Genet</Auteur>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Maeght</Editeur>
+			<Collection>Carnets De Voyage</Collection>
+			<NombreDePages>93</NombreDePages>
+			<Illustration>Illustrations couleur</Illustration>
+			<ISBN>2869411170</ISBN>
+		</Livre>
+		<Livre id="l62" couverture="c62.jpg">
+			<Titre>Oeuvres romanesques</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Direction aref="a7">Michel Contat</Direction>
+			<Direction>Michel Rybalka</Direction>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Pleiade Bibliotheque, numéro 295</Collection>
+			<NombreDePages>2288</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070110028</ISBN>
+		</Livre>
+		<Livre id="l63" couverture="c63.jpg">
+			<Titre>Villes d'Amérique, New York ville coloniale, Venise de ma fenêtre</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Preface>Jean-Pierre Le Dantec</Preface>
+			<Editeur>Patrimoine Eds Du</Editeur>
+			<DateDeParution>04/2002</DateDeParution>
+			<Collection>La Ville Entiere</Collection>
+			<NombreDePages>61</NombreDePages>
+			<Format>12 cm x 17 cm</Format>
+			<ISBN>2858227020</ISBN>
+		</Livre>
+		<Livre id="l64" couverture="c64.jpg">
+			<Titre>Anthologie de la nouvelle poésie nègre et malgache de langue française  - Précédé de Orphée noir</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Direction>Léopold Sédar Senghor</Direction>
+			<Preface>Charles-André Julien</Preface>
+			<Editeur>Puf</Editeur>
+			<DateDeParution>06/2001</DateDeParution>
+			<Collection>Quadrige, numéro 66</Collection>
+			<NombreDePages>272</NombreDePages>
+			<Format>13 cm x 19 cm</Format>
+			<ISBN>2130520413</ISBN>
+		</Livre>
+		<Livre id="l65" couverture="c65.jpg">
+			<Titre>La mauvaise foi</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Hatier</Editeur>
+			<DateDeParution>05/2001</DateDeParution>
+			<Collection>Class.hatier Philosophie</Collection>
+			<Format>13 cm x 19 cm</Format>
+			<ISBN>2218733943</ISBN>
+		</Livre>
+		<Livre id="l66" couverture="c66.jpg">
+			<Titre>Esquisse d'une théorie des émotions</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Lgf</Editeur>
+			<DateDeParution>06/2000</DateDeParution>
+			<Collection>Ldp References, numéro 465</Collection>
+			<NombreDePages>124</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2253904651</ISBN>
+		</Livre>
+		<Livre id="l67" couverture="c67.jpg">
+			<Titre>Questions de méthode</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a5">Arlette Elkaim-Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<Collection>Tel, numéro 111</Collection>
+			<NombreDePages>164</NombreDePages>
+			<ISBN>2070707679</ISBN>
+		</Livre>
+		<Livre id="l68" couverture="c68.jpg">
+			<Titre>Critique de la raison dialectique  - T2 L'intelligibilité de l'histoire (inachevé)</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur aref="a5">Arlette Elkaim-Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>05/1992</DateDeParution>
+			<Collection>Bibliothèque de philosophie</Collection>
+			<NombreDePages>469</NombreDePages>
+			<Format>14 cm x 23 cm</Format>
+			<ISBN>2070705250</ISBN>
+		</Livre>
+		<Livre id="l69" couverture="c69.jpg">
+			<Titre>Critique de la raison dialectique  - T1 Théorie des ensembles pratiques et Questions de méthode</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Direction aref="a5">Arlette Elkaim-Sartre</Direction>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>05/1992</DateDeParution>
+			<Collection>Bibliothèque de philosophie</Collection>
+			<NombreDePages>921</NombreDePages>
+			<Format>14 cm x 23 cm</Format>
+			<ISBN>2070704939</ISBN>
+		</Livre>
+		<Livre id="l70" couverture="c70.jpg">
+			<Titre>Saint Genet comédien et martyr  - Oeuvres complètes T1</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Auteur>Jean Genet</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1988</DateDeParution>
+			<Collection>Blanche</Collection>
+			<NombreDePages>692</NombreDePages>
+			<Format>14 cm x 21 cm</Format>
+			<ISBN>2070227235</ISBN>
+		</Livre>
+		<Livre id="l71" couverture="c71.jpg">
+			<Titre>L'Imaginaire  - Psychologie phénoménologique de l'imaginaire</Titre>
+			<Auteur aref="a1">Jean-Paul Sartre</Auteur>
+			<Editeur>Gallimard</Editeur>
+			<DateDeParution>01/1986</DateDeParution>
+			<Collection>Folio Essais, numéro 47</Collection>
+			<NombreDePages>384</NombreDePages>
+			<Format>11 cm x 18 cm</Format>
+			<ISBN>2070323749</ISBN>
+		</Livre>
+	</Livres>
+	<Auteurs>
+		<Perso id="a1">
+			<Nom>Sartre</Nom>
+			<Prenom>Jean-Paul</Prenom>
+			<Naissance annee="1905" mois="Juin" jour="21" lieu="Paris"/>
+			<Deces annee="1980" mois="Avril" jour="15" lieu="Paris"/>
+			<Biographie>
+				<p>Jean-Paul Sartre (1905-1980), orphelin de père, a été élevé par sa mère. Il entre, en 1924, à l'Ecole normale supérieure, où ses amis se nomment Raymond Aron, Paul Nizan.</p>
+				<p>Il est reçu premier, en 1929, à l'agrégation de philosophie. Sa première publication philosophique (<Ecrit>L'Imagination</Ecrit>, 1936) précède les écrits littéraires (<Ecrit>La Nausée</Ecrit>, 1938, et <Ecrit>Le Mur</Ecrit>, 1939). En 1943, <Ecrit>Les Mouches</Ecrit> connaissent un grand retentissement et Sartre, à la Libération, va devenir un écrivain célèbre, bien que sa grande œuvre philosophique <Ecrit>L'Etre et le Néant</Ecrit> (1943), n'ait connu que peu de succès.</p>
+				<p>Sartre quitte l'enseignement en 1945. Il se consacre à l'écriture et fonde, avec Simone de Beauvoir, sa compagne, et Maurice Merleau-Ponty, la revue des Temps Modernes, politiquement très engagée. Ses pièces de théâtre (<Ecrit>Huis-clos</Ecrit>, 1945 , <Ecrit>Morts sans sépulture.</Ecrit> 1946 ; <Ecrit>Les mains sales</Ecrit>, 1948), mais aussi ses romans (<Ecrit>Les chemins de la liberté</Ecrit>, 1945), ainsi que ses essais (<Ecrit>Baudelaire</Ecrit>, 1947 ; <Ecrit>Qu'est-ce que la littérature?</Ecrit>, <Ecrit>1947 : Réflexions sur la question juive</Ecrit>, 1947) lui valent une immense réputation et provoquent parfois le scandale.</p>
+				<p>A partir de 1950, Sartre se rapproche du Parti communiste dont il est un " compagnon de route " critique et avec lequel il rompra totalement en 1968, lors de l'invasion de la Tchécoslovaquie. De 1950 aux années 60, Sartre approfondit remarquablement la théorie marxiste (<Ecrit>Critique de la raison dialectique</Ecrit>, 1960). <Ecrit>Les mots</Ecrit> (1964) lui vaudront le Prix Nobel, qu'il refusera. Avec son ouvrage sur Flaubert (<Ecrit>L'Idiot de la famille</Ecrit>, 3 tomes, 1971-1972), il semble se rapprocher de la psychanalyse. Atteint de cécité, il continue néanmoins à travailler et à militer. Il meurt, en 1980, ayant mené une vie engagée, qui force souvent l'admiration (Sartre était profondément désintéressé et indifférent à l'argent).</p>
+			</Biographie>
+			<Infos>
+				<Info annee="1964">Refuse le Prix Nobel de littérature pour son ouvrage "Les Mots".</Info>
+				<Info>Il est atteint de cécité à la fin de sa vie.</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a2">
+			<Nom>De Beauvoir</Nom>
+			<Prenom>Simone</Prenom>
+			<Naissance annee="1908" mois="Janvier" jour="9" lieu="Paris"/>
+			<Deces annee="1983" mois="Avril" jour="14"/>
+			<Biographie>
+				<p>Simone de Beauvoir est née à Paris le 9 janvier 1908. Elle fit ses études jusqu'au baccalauréat dans le très catholique Cours Désir. Agrégée de philosophie en 1929, elle enseigne à Marseille, Rouen et Paris jusqu'en 1943. <Ecrit>"Quand prime le spirituel"</Ecrit> fut achevé bien avant la guerre de 1939, mais ne paraîtra qu'en 1979. C'est <Ecrit>"L'Invitée"</Ecrit> (1943) qu'on doit considérer comme son véritable début littéraire. Viennent ensuite "Le sang des autres" (1945); <Ecrit>"Tous les hommes sont mortels"</Ecrit> (1946); <Ecrit>"Les Mandarins"</Ecrit>, roman qui lui vaut le prix Goncourt en 1954, <Ecrit>"Les Belles Images"</Ecrit> (1966) et <Ecrit>"La femme rompue"</Ecrit> (1968).</p>
+				<p>Outre le célèbre <Ecrit>"Deuxième Sexe"</Ecrit> paru en 1949, et devenu l'ouvrage de référence du mouvement féministe mondial, l'oeuvre théorique de Simone de Beauvoir comprend de nombreux essais philosophiques ou polémiques, <Ecrit>"Privilèges"</Ecrit>, par exemple (1955), réédité sous le titre du premier article <Ecrit>"Faut-il brûler Sade?"</Ecrit> et <Ecrit>"La vieillesse"</Ecrit> (1970). Elle a écrit, pour le théatre, <Ecrit>"Les bouches inutiles"</Ecrit> (1945) et a raconté certains de ses voyages dans <Ecrit>"L'Amérique au jour le jour"</Ecrit> (1948) et <Ecrit>"La longue marche"</Ecrit> (1957).</p>
+				<p>Après la mort de Sartre, Simone de Beauvoir a publié <Ecrit>"La cérémonie des Adieux"</Ecrit> (1981) et <Ecrit>"Lettres au Castor"</Ecrit> (1983) qui rassemblent une partie de l'abondante correspondance qu'elle reçut de lui. Jusqu'au jour de sa mort, le 14 avril 1986, elle a collaboré activement à la revue fondée par elle et Sartre, "Les Temps Modernes", et manifesté sous des formes diverses et innombrables sa solidarité totale avec le féminisme.</p>
+			</Biographie>
+			<Infos>
+				<Info annee="1954">Reçoit le prix Goncourt pour "Les Mandarins".</Info>
+				<Info>Compagne de Jean-Paul Sartre.</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a3">
+			<Nom>Hegel</Nom>
+			<Prenom>Georg Wilhelm Friedrich</Prenom>
+			<Naissance annee="1770" mois="Août" jour="27" lieu="Stuttgart"/>
+			<Deces annee="1831" mois="Novembre" jour="14" lieu="Berlin"/>
+			<Biographie>
+				<p>En se proposant de construire un système complet du savoir, Hegel s'affirme comme un penseur encyclopédique. Paradoxalement, ce système, qui se veut exhaustif et objectif, a suscité les philosophies et les interprétations les plus diverses : Hegel est ainsi lu tour à tour comme un athée, un théologien, un penseur tragique, un rationaliste absolu. Il a tout dit, mais tout n'est pas dit sur lui, et Hegel garde tout son mystère.</p>
+				<p>L'homme est né à Stuttgart en 1770. Fils d'un modeste fonctionnaire, il fait de bonnes études qui le familiarisent avec l' "Aufklärung", le courant des Lumières en Allemagne. Au séminaire de Tübingen, il a pour condisciples Schelling et Hölderlin, avec qui il se passionne pour la Révolution française. Après avoir été précepteur, il obtient en 1804 un poste de professeur à Iéna. S'ouvre alors une période féconde de grands ouvrages : la Phénoménologie de l'esprit paraît en 1807 ; en 1809, il compose la Science de la logique ; en 1817, il publie son ouvrage le plus systématique : Précis d'encyclopédie des sciences philosophiques.</p>
+				<p>Il est alors nommé à l'université de Berlin, où sa gloire atteint son apogée. C'est là qu'ont lieu ses célèbres cours sur l'Histoire, le droit, l'esthétique ou la philosophie de la religion, thèmes qui parcourent le système hégélien dans toute son ampleur. Reconnu par tous, il est recteur de l'Université pendant un an avant de mourir, en 1831, victime d'une épidémie de choléra.
+				</p>
+			</Biographie>
+			<Infos>
+				<Info annee="1954">Reçoit le prix Goncourt pour "Les Mandarins".</Info>
+				<Info>Compagne de Jean-Paul Sartre.</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a4">
+			<Nom>Levy</Nom>
+			<Prenom>Benny</Prenom>
+			<Naissance annee="1945" mois="Août" jour="28" lieu="Caire"/>
+			<Deces annee="2003" mois="Octobre" jour="15" lieu="Jérusalem"/>
+			<Biographie>
+				<p>Benny Lévy quitte l'Egypte à 11 ans avec ses parents. Sept ans plus tard, il arrive à Paris où il intègre Normale Sup en 1965, ce qui lui permet de rencontrer Louis Althusser, philosophe marxiste dont les cours ne seront pas sans influence. Engagé dans l'Union des étudiants communistes (UEC), il devient Pierre Victor en mai 68 et s'inspire du maoïsme pour fonder la gauche prolétarienne (GP). Il rencontre Sartre en 1970, grande rencontre qui le mène à co-fonder 'Libération' en 1972. Lévy obtient la nationalité française grâce à Sartre, dont il devient le secrétaire particulier jusqu'à sa mort. A partir de 1978, date à laquelle il découvre Lévinas, Benny Lévy apprend l'hébreu et s'investit dans des études talmudiques. Après avoir enseigné la philosophie pendant plus de dix ans, il s'installe en Israël où il veut populariser la pensée de Lévinas en créant l'Ecole doctorale de Jérusalem puis l'Institut Lévinas avec Alain Finkielkraut et Bernard Henri-Lévy. Ses ouvrages les plus célèbres sont 'L'Espoir maintenant', entretiens à scandale où Sartre donne des contours religieux à sa pensée, et 'Visage continu, la pensée du retour chez Emmanuel Lévinas'. Il venait d'achever un essai, 'Etre juif', sur le messianisme juif moderne, qui verra le jour aux lendemains de sa mort.</p>
+			</Biographie>
+			<Infos>
+				<Info>Secrétaire de Jean-Paul Sartre.</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a5">
+			<Nom>Elkaïm-Sartre</Nom>
+			<Prenom>Arlette</Prenom>
+			<Naissance annee="?" mois="?" jour="?" lieu="?"/>
+			<Biographie>
+				-
+			</Biographie>
+			<Infos>
+				<Info>Fille adoptive de Jean-Paul Sartre.</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a6">
+			<Nom>Memmi</Nom>
+			<Prenom>Albert</Prenom>
+			<Naissance annee="1920" mois="Décembre" jour="15" lieu="Tunis"/>
+			<Biographie>
+				<p>Né à Tunis en 1920. Famille juive arabophone. Études de Philosophie à Alger puis Paris (agrégé après la guerre). Il est incarcéré dans un camp de travail en 1943. Il se marie avec une Française. Il dirige à Tunis le Centre de psychologie de l'Enfant. Fixé en France après l'Indépendance (en 1956). Professeur à l'Université de Nanterre. Prix de l'Union rationaliste pour 1994. Grand Prix littéraire du Maghreb de la Fondation Noureddine Aba en 1995.</p>
+			</Biographie>
+			<Infos>
+				<Info>Prix de l'Union rationaliste pour 1994.</Info>
+				<Info annee="1995">Grand Prix littéraire du Maghreb de la Fondation Noureddine Aba en 1995.</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a7">
+			<Nom>Contat</Nom>
+			<Prenom>Michel</Prenom>
+			<Naissance annee="1938" mois="?" jour="?" lieu="Berne"/>
+			<Biographie>
+				<p>Né à Berne en 1938, Michel Contat a passé sa jeunesse à Lausanne. Jeune enseignant mal acclimaté aux raideurs de l'instruction publique vaudoise, il quitte la Suisse après la révolution de mai 68 et s'établit à Paris. Il raconte ses premières années à Paris dans <Ecrit>"Paris 1959, notes d'un Vaudois"</Ecrit>, qui fait écho à C.F. Ramuz. En 2003, il est distingué par le Prix Alpes-Jura de l'Association des écrivains de langue française pour cet ouvrage.
+      A Paris, Michel Contat devient un spécialiste de J.-P. Sartre. Chercheur, il commence par publier une oeuvre de recensement bibliographique: <Ecrit>«Les écrits de Sartre»</Ecrit>. Puis il réalise avec Alexandre Astruc un film qui sortira en 1976: «Sartre par lui-même». En 1972, le célèbre philosophe accepte en effet de parler de sa vie, de son oeuuvre et de son itinéraire intellectuel pendant six heures d'entretiens. Il faut quatre ans pour que le film, sorte d'essai d'autobiographie filmé, puisse voir le jour.
+      Premier parmi les fidèles, Michel Contat est devenu le gardien de l'oeuvre de J.-P. Sartre. La publication des romans dans la Pléiade est établie par ses soins. Michel Contat est également critique littéraire au "Monde" et critique de jazz à "Télérama".
+      En 2001 paraît aux éditions Zoé <Ecrit>"Paris 1959 : notes d'un Vaudois"</Ecrit> suivi en 2003 par <Ecrit>"Les Musiciens du samedi soir"</Ecrit> aux même éditions.
+				</p>
+			</Biographie>
+			<Infos>
+				<Info annee="2003">Distingué par le Prix Alpes-Jura de l'Association des écrivains de langue française pour "Paris 1959, notes d'un Vaudois"</Info>
+			</Infos>
+		</Perso>
+		<Perso id="a8">
+			<Nom>Dumas</Nom>
+			<Prenom>Alexandre</Prenom>
+			<Naissance annee="1802" mois="Juillet" jour="24" lieu="Villers-Cotterêts"/>
+			<Deces annee="1870" mois="Décembre" jour="5" lieu="Puys"/>
+			<Biographie>
+				<p>Alexandre Dumas, de son vrai nom Alexandre Davy de la Pailleterie est né à Villers-Cotterêts en 1802. La mort prématurée de son père, le général Dumas (1762-1806), le prive de la possibilité de faire des études supérieures. Obligé de travailler dès son plus jeune âge - il débute comme clerc de notaire - Alexandre Dumas tente sa chance à Paris en 1822 . Il a alors vingt ans . Sa "belle plume" lui vaut d'être embauché dans les bureaux du duc d'Orléans. Il commence par publier quelques chroniques dans la presse.</p>
+				<p>A partir de 1825, il écrit, en collaboration avec Adolphe de Leuven, des vaudevilles. Ceux-ci ne seront pas représentés. Alexandre Dumas s'essaye alors à des poèmes qu'il parvient à publier. Il rencontre des comédiens dont le tragédien Talma, qui l'encourage. Il découvre aussi le théâtre de Shakespeare à l'occasion d'une tournée en France de comédiens anglais. Il fréquente alors un groupe de jeunes écrivains animés par Charles Nodier.</p>
+				<p>En 1828, Alexandre Dumas propose à la Comédie-Française, Christine, une tragédie en vers. La pièce sera présentée au comité de lecture mais ne sera pas jouée, en raison de la concurrence d'autres pièces traitant le même sujet.</p>
+				<p>En 1829, Alexandre Dumas connaît un immense succès avec Henri III et sa cour, un drame historique, créé à Comédie-Française. La pièce vaut à Dumas de devenir l'une des figures de proue du théâtre romantique. Elle lui permet également d'acquérir argent et notoriété. Il écrit alors de nombreuses pièces, dont Antony (1831), La Tour de Nesle (1832), le Mari de la veuve (1832), Kean ou Désordre et Génie (1836), Caligula (1837).</p>
+				<p>Puis Alexandre Dumas, tout en continuant à produire des pièces de théâtre, se met à écrire des chroniques historiques, des souvenirs de voyage et des romans. Homme de théâtre dans l'âme, Dumas gardera dans ses romans le sens de la mise en scène et le goût des "coups de théâtre". Il collabore avec plusieurs auteurs dont notamment Auguste Maquet, qu'il rencontre en 1838. Ce jeune professeur d'histoire l'aidera à écrire ses premiers romans. A partir d'un canevas élaboré par Auguste Maquet ou en commun, Dumas y apporte son talent romanesque : il développe le récit en y ajoutant personnages secondaires et dialogues. A partir de 1840, sa production "s'emballe" : Dumas publiera en tout près de quatre-vingt romans. C'est dans les années quarante qu'il écrit, en collaboration avec Auguste Maquet, ses grands romans historiques , notamment la trilogie des Mousquetaires : Les Trois mousquetaires (1844), Vingt ans après (1845), le Vicomte de Bragelonne (1848), le cycle de la Reine Margot (1847), et le célèbre Comte de Monte-Cristo (1845).</p>
+				<p>Très impliqué dans son siècle, Dumas est également un grand voyageur, il s'essaie à la politique (il prend part à la révolution de juillet 1830, il se présente aux élections en 1848, rejoint Garibaldi en Italie en 1860), crée un théâtre ( il fonde le Théâtre Historique qu'il dirige de 1847 à 1851) , édite des journaux, fait construire un château... Malheureusement sa folie des grandeurs et sa grande prodigalité lui valent de connaître des faillites retentissantes et l'obligent à courir après cet argent qu'il dépense aussitôt gagné. "Aventures amoureuses, procès, voyages alimentent la publication de ses pittoresques Mémoires et de ses Impressions de voyage".</p>
+				<p>Il meurt en 1870, chez son fils, Alexandre Dumas fils, auteur célèbre de la Dame aux camélias.</p>
+			</Biographie>
+			<Infos/>
+		</Perso>
+		<Perso id="a9">
+			<Nom>Prévert</Nom>
+			<Prenom>Jacques</Prenom>
+			<Naissance annee="1900" mois="Février" jour="4" lieu="Neuilly-sur-Seine"/>
+			<Deces annee="1977" mois="Avril" jour="11" lieu="Omonville-la-Petite"/>
+			<Biographie>
+				<p>Prévert, Jacques (1900-1977), poète, parolier et scénariste français dont l'œuvre, composée pour un large public, est une célébration des thèmes de la justice, de la liberté et du bonheur. Né à Neuilly-sur-Seine dans un milieu modeste, il passa sa jeunesse à Paris, où il exerça différents petits métiers avant de se lier avec les artistes d'avant-garde et de rejoindre Marcel Duhamel, Yves Tanguy, Raymond Queneau et Georges Sadoul dans le groupe surréaliste dissident de la rue du Château. En 1931, il fit paraître Tentative de description d'un dîner de têtes à Paris-France, un poème fantaisiste composé de contrepèteries et de calembours. Il écrivit également pour le théâtre de courtes pièces, jouées notamment par la troupe du groupe Octobre, composa des chansons qu'interprétèrent plus tard Juliette Gréco, Yves Montand ou les Frères Jacques. Il se passionna aussi pour le cinéma et rédigea (souvent en collaboration avec son frère, Pierre) plusieurs scénarios de films pour Marcel Carné (Drôle de drame, Quai des brumes, les Visiteurs du soir, les Enfants du paradis). Ce n'est toutefois qu'après la guerre que le poète rencontra son plus grand succès, avec la parution du recueil Paroles (1945). Ayant résolument pris ses distances avec les débats intellectuels et politiques, il laissa libre cours à son sens de l'image insolite et à sa gouaille populaire. Dans un style proche de la langue parlée, il réhabilita la vie ordinaire, invitant le lecteur à se fier au pouvoir de la "!parole!" pour accéder au bonheur, individuel et collectif. Son œuvre s'enrichit alors de nombreux poèmes (Histoires, 1946!; Spectacle, 1951!; la Pluie et le Beau Temps, 1955), évoquant tour à tour l'amour, la liberté, le rêve et l'imagination, tout en témoignant de son attachement et de sa compassion pour les humbles et les malheureux. Ses assauts verbaux contre les hommes de pouvoir, et les institutions en général, accréditèrent l'image d'un poète libertaire : il était seulement hostile à toutes les forces d'oppression sociale. L'humour dont il fit preuve dans ses différents textes ainsi que les collages de Fatras (1966) et de Choses et autres (1972) rappellent son adhésion, moins fortuite qu'il n'y paraît, au surréalisme. Il consacra la fin de sa vie à son activité de parolier (Cinquante Chansons Prévert-Kosma, posth., 1977). Il a également laissé des textes pour les enfants (Contes pour enfants pas sages, posth., 1977); Chanson pour chanter à tue-tête et à cloche-pied, posth., 1985).</p>
+			</Biographie>
+			<Infos/>
+		</Perso>
+	</Auteurs>
+	<Commentaires>
+		<Avis lref="l1"/>
+		<Avis lref="l2"/>
+		<Avis source="Mot de l'éditeur" lref="l3">
+      			Dans l'œuvre dramatique de Sartre, bien et mal, volonté de résistance et esprit de résignation, héroïsme (réel ou joué) et lâcheté, victimes et bourreaux, idéalistes et réalistes dialoguent et s'opposent au fil de pièces qui empruntent à tous les genres sans en adopter aucun, voire en les détournant tous. Une grande diversité, donc, du moins en apparence : elle a pu masquer la profonde unité de l'œuvre, qui est un théâtre de l'héroïsme et de sa démythification. Cette unité, il n'est pas certain que les spectateurs des «premières» aient eu le recul nécessaire pour la percevoir. L'édition qui paraît aujourd'hui permet d'en prendre conscience.
+      Même si "Huis clos" ne cesse d'être représenté avec succès, le théâtre de Sartre est un théâtre d'auteur et de lecture. Réunies dans une édition complète, accompagnées de scènes et de tableaux inédits, de témoignages sur les créations, de déclarations de Sartre et de ses proches, ces pièces qui furent comme le miroir d'un siècle aujourd'hui achevé peuvent désormais échapper à leur époque et être considérées d'un œil nouveau, pour ce qu'elles sont : une interrogation, comparable à celles des mythes, sur la liberté de l'homme soumis à des situations extrêmes qui peuvent être, et qui sont, sa condition dans tous les temps.
+		</Avis>
+		<Avis source="La revue de presse de Le Point" lref="l3">
+			Rien n'a été négligé pour rendre passionnant le volume Pléiade consacré au théâtre de Sartre... L'édition, publiée avec un grand soin sous la direction de Michel Contat, nous offre non seulement toutes les pièces mais aussi beaucoup de scènes supprimées, raturées, chiffonnées, balafrées, égarées, totalement inédites (notamment sur «Nekrassov»), car Sartre avait l'habitude de remanier ses scènes pendant les répétitions jusqu'à déstabiliser certains comédiens. Outre les notes copieuses qui encadrent, commentent, expliquent (parfois justifient les faiblesses idéologiques avec un poil de complaisance) s'ajoutent des dossiers qui reprennent les articles et interviews de l'époque. C'est ainsi qu'on découvre une critique dramatique de Françoise Giroud, le 10 juin 1955, sur «Nekrassov», et une lecture du grand brechtien Bernard Dort qui, sous couvert d'analyser «Les séquestrés d'Altona», en montre les limites, en octobre 1959, avec une impitoyable férocité... Soyons clairs : bravo à cette édition, mais que tout ça pue l'époque, devient dépaysant, exotique, entassé dans le placard idéologique des années 50. A la fois abstrait et daté. Enfin c'est une comédie inhumaine qu'aucune légèreté ne paillette, qu'aucun menu plaisir n'égaie...
+		</Avis>
+		<Avis source="Mot de l'éditeur" lref="l4">
+			L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente. Elle ne cherche pas du tout à plonger l'homme dans le désespoir. Mais si l'on appelle, comme les chrétiens, désespoir toute attitude d'incroyance, elle part du désespoir originel. L'existentialisme n'est pas tellement un athéisme au sens où il s'épuiserait à démontrer que Dieu n'existe pas. Il déclare plutôt : même si Dieu existait, ça ne changerait rien ; voilà notre point de vue. Non pas que nous croyions que Dieu existe, mais nous pensons que le problème n'est pas celui de son existence ; il faut que l'homme se retrouve lui-même et se persuade que rien ne peut le sauver de lui-même, fût-ce une preuve valable de l'existence de Dieu. En ce sens, l'existentialisme est un optimisme, une doctrine d'action.
+		</Avis>
+		<Avis lref="l5"/>
+		<Avis source="L'avis de la Fnac" lref="l6">
+			Dans ce récit autobiographique, Jean-Paul Sartre explique comment dans son enfance il a pu échapper à une éducation artificielle et étroite formatée par la bourgeoisie. Enfant solitaire et imaginatif, élevé au milieu d'adultes, il se prend d'une authentique passion pour l'écriture et la lecture qu'il découvre très tôt. Paru en 1964, ce roman, pastiche plein de dérision du roman d'enfance, passe pour être le classique de l'auteur. Entre littérature, philosophie et idéologie, il offre de multiples niveaux de lecture.
+		</Avis>
+		<Avis source="L'avis de la Fnac" lref="l7">
+			Estelle, Garcin et Inès, morts, se rencontrent en enfer, dans un salon Empire. Ils s'attendent à y subir des tortures infinies et à y retrouver leurs victimes. Ensemble, ils discutent de ce qui les attend, de ce qui les a conduit là et tissent d'impossibles relations les uns avec les autres pour finalement comprendre que " l'enfer c'est les autres ". Avec Les Mouches, Jean-Paul Sartre célèbre l'avènement de la liberté en pleine Occupation en réinterprétant une tragédie antique. Le retour d'Oreste à Argos, marque la fin du règne tyrannique d'Egisthe, assassin de son père, second époux de sa mère et à l'origine de l'esclavage d'Electre, sa sœur.
+		</Avis>
+		<Avis lref="l8"/>
+		<Avis lref="l9"/>
+		<Avis lref="l10"/>
+		<Avis lref="l11"/>
+		<Avis lref="l12"/>
+		<Avis source="L'avis de la Fnac" lref="l13">
+			Comment le conformisme bourgeois a-t-il conduit Lucien, personnage falot et artificiel, à devenir un antisémite convaincu ? Jean-Paul Sartre démontre implacablement la logique de ce cheminement dans une parodie du roman d'apprentissage, L'Enfance d'un chef, la plus longue des nouvelles de ce recueil. Dans les quatre autres, le lecteur croisera un condamné à mort pendant la guerre d'Espagne, une femme confrontée à la maladie mentale de son mari, un crime gratuit concrétisant une existence insipide et les fantasmes d'une femme mariée à un impuissant.
+		</Avis>
+		<Avis lref="l14"/>
+		<Avis lref="l15"/>
+		<Avis lref="l16"/>
+		<Avis source="Mot de l'éditeur" lref="l17">
+			Fils de famille, Lucien Fleurier est à la recherche de lui-même : d'une enfance dorée et confortable aux révoltes de l'adolescence, de la bohème aux milieux d'extrême-droite, le jeune homme tente de connaître l'homme qui émerge en lui.
+      Jean-Paul Sartre parodie le «roman d'apprentissage» dans le style dépouillé et magistralement maîtrisé qui efface l'écrivain au profit du seul dévoilement de l'homme dans le monde.
+		</Avis>
+		<Avis lref="l18"/>
+		<Avis lref="l19"/>
+		<Avis lref="l20"/>
+		<Avis lref="l21"/>
+		<Avis lref="l22"/>
+		<Avis lref="l23"/>
+		<Avis lref="l24"/>
+		<Avis lref="l25"/>
+		<Avis lref="l26"/>
+		<Avis lref="l27"/>
+		<Avis source="La revue de presse de Radio France " lref="l28">
+			Lire aujourd'hui la conférence que Sartre a donnée en 1946 à la Sorbonne sur "la responsabilité de l'écrivain" est une expérience assez intéressante. Car elle est à bien des égards terriblement datée, mais elle contient aussi de belles considérations sur la littérature.
+		</Avis>
+		<Avis lref="l29"/>
+		<Avis lref="l30"/>
+		<Avis lref="l31"/>
+		<Avis lref="l32"/>
+		<Avis lref="l33"/>
+		<Avis lref="l34"/>
+		<Avis lref="l35"/>
+		<Avis lref="l36"/>
+		<Avis lref="l37"/>
+		<Avis lref="l38"/>
+		<Avis lref="l39"/>
+		<Avis lref="l40"/>
+		<Avis lref="l41"/>
+		<Avis lref="l42"/>
+		<Avis lref="l43"/>
+		<Avis lref="l44"/>
+		<Avis lref="l45"/>
+		<Avis lref="l46"/>
+		<Avis lref="l47"/>
+		<Avis lref="l48"/>
+		<Avis lref="l49"/>
+		<Avis lref="l50"/>
+		<Avis lref="l51"/>
+		<Avis lref="l52"/>
+		<Avis lref="l53"/>
+		<Avis lref="l54"/>
+		<Avis lref="l55"/>
+		<Avis lref="l56"/>
+		<Avis lref="l57"/>
+		<Avis lref="l58"/>
+		<Avis lref="l59"/>
+		<Avis lref="l60"/>
+		<Avis lref="l61"/>
+		<Avis source="Mot de l'éditeur" lref="l62">
+			Sommaire : La Nausée - Le Mur - Les Chemins de la liberté : L'Age de raison - Le Sursis - La Mort dans l'âme - Drôle d'amitié.
+      Appendice : Dépaysement - La Mort dans l'âme [Fragments de journal] - La Dernière chance [Fragments]
+		</Avis>
+		<Avis lref="l63"/>
+		<Avis lref="l64"/>
+		<Avis lref="l65"/>
+		<Avis source="Mot de l'éditeur" lref="l66">
+			Un des grands classiques de la philosophie contemporaine, à la fois bref, dense et clair.
+        L
+        une critique des théories psychologiques traditionnelles, Sartre en vient à définir l'émotion non comme un simple mécanisme affectif mais comme un " mode d'existence de la conscience ". Se réclamant ainsi ouvertement de la phénoménologie, Sartre entend restituer l'unité et la cohérence des comportements humains à partir d'un exemple privilégié. Cette perspective rationnelle et globalisante annonce déjà les grands thèmes de la pensée sartrienne.
+		</Avis>
+		<Avis lref="l67"/>
+		<Avis lref="l68"/>
+		<Avis lref="l69"/>
+		<Avis lref="l70"/>
+		<Avis lref="l71"/>
+	</Commentaires>
+  <Gestion>
+		<Stock lref="l1">
+			<Prix>39 eur</Prix>
+			<Disponibilite>7</Disponibilite>
+			<Exemplaires>22714</Exemplaires>
+		</Stock>
+		<Stock lref="l2">
+			<Prix>29 eur</Prix>
+			<Disponibilite>3</Disponibilite>
+			<Exemplaires>21174</Exemplaires>
+		</Stock>
+		<Stock lref="l3">
+			<Prix>27 eur</Prix>
+			<Disponibilite>20</Disponibilite>
+			<Exemplaires>10343</Exemplaires>
+		</Stock>
+		<Stock lref="l4">
+			<Prix>4 eur</Prix>
+			<Disponibilite>6</Disponibilite>
+			<Exemplaires>6143</Exemplaires>
+		</Stock>
+		<Stock lref="l5">
+			<Prix>6 eur</Prix>
+			<Disponibilite>11</Disponibilite>
+			<Exemplaires>7097</Exemplaires>
+		</Stock>
+		<Stock lref="l6">
+			<Prix>21 eur</Prix>
+			<Disponibilite>20</Disponibilite>
+			<Exemplaires>28342</Exemplaires>
+		</Stock>
+		<Stock lref="l7">
+			<Prix>13 eur</Prix>
+			<Disponibilite>0</Disponibilite>
+			<Exemplaires>13761</Exemplaires>
+		</Stock>
+		<Stock lref="l8">
+			<Prix>33 eur</Prix>
+			<Disponibilite>16</Disponibilite>
+			<Exemplaires>18522</Exemplaires>
+		</Stock>
+		<Stock lref="l9">
+			<Prix>39 eur</Prix>
+			<Disponibilite>2</Disponibilite>
+			<Exemplaires>15229</Exemplaires>
+		</Stock>
+		<Stock lref="l10">
+			<Prix>3 eur</Prix>
+			<Disponibilite>9</Disponibilite>
+			<Exemplaires>24007</Exemplaires>
+		</Stock>
+		<Stock lref="l11">
+			<Prix>14 eur</Prix>
+			<Disponibilite>17</Disponibilite>
+			<Exemplaires>5881</Exemplaires>
+		</Stock>
+		<Stock lref="l12">
+			<Prix>23 eur</Prix>
+			<Disponibilite>16</Disponibilite>
+			<Exemplaires>12362</Exemplaires>
+		</Stock>
+		<Stock lref="l13">
+			<Prix>7 eur</Prix>
+			<Disponibilite>11</Disponibilite>
+			<Exemplaires>24355</Exemplaires>
+		</Stock>
+		<Stock lref="l14">
+			<Prix>20 eur</Prix>
+			<Disponibilite>13</Disponibilite>
+			<Exemplaires>15984</Exemplaires>
+		</Stock>
+		<Stock lref="l15">
+			<Prix>20 eur</Prix>
+			<Disponibilite>8</Disponibilite>
+			<Exemplaires>4574</Exemplaires>
+		</Stock>
+		<Stock lref="l16">
+			<Prix>10 eur</Prix>
+			<Disponibilite>12</Disponibilite>
+			<Exemplaires>16628</Exemplaires>
+		</Stock>
+		<Stock lref="l17">
+			<Prix>9 eur</Prix>
+			<Disponibilite>8</Disponibilite>
+			<Exemplaires>20698</Exemplaires>
+		</Stock>
+		<Stock lref="l18">
+			<Prix>37 eur</Prix>
+			<Disponibilite>16</Disponibilite>
+			<Exemplaires>22523</Exemplaires>
+		</Stock>
+		<Stock lref="l19">
+			<Prix>11 eur</Prix>
+			<Disponibilite>10</Disponibilite>
+			<Exemplaires>23016</Exemplaires>
+		</Stock>
+		<Stock lref="l20">
+			<Prix>23 eur</Prix>
+			<Disponibilite>10</Disponibilite>
+			<Exemplaires>8827</Exemplaires>
+		</Stock>
+		<Stock lref="l21">
+			<Prix>28 eur</Prix>
+			<Disponibilite>4</Disponibilite>
+			<Exemplaires>27654</Exemplaires>
+		</Stock>
+		<Stock lref="l22">
+			<Prix>21 eur</Prix>
+			<Disponibilite>6</Disponibilite>
+			<Exemplaires>23938</Exemplaires>
+		</Stock>
+		<Stock lref="l23">
+			<Prix>36 eur</Prix>
+			<Disponibilite>6</Disponibilite>
+			<Exemplaires>9648</Exemplaires>
+		</Stock>
+		<Stock lref="l24">
+			<Prix>16 eur</Prix>
+			<Disponibilite>7</Disponibilite>
+			<Exemplaires>3242</Exemplaires>
+		</Stock>
+		<Stock lref="l25">
+			<Prix>21 eur</Prix>
+			<Disponibilite>15</Disponibilite>
+			<Exemplaires>7122</Exemplaires>
+		</Stock>
+		<Stock lref="l26">
+			<Prix>23 eur</Prix>
+			<Disponibilite>13</Disponibilite>
+			<Exemplaires>12357</Exemplaires>
+		</Stock>
+		<Stock lref="l27">
+			<Prix>13 eur</Prix>
+			<Disponibilite>10</Disponibilite>
+			<Exemplaires>8183</Exemplaires>
+		</Stock>
+		<Stock lref="l28">
+			<Prix>33 eur</Prix>
+			<Disponibilite>9</Disponibilite>
+			<Exemplaires>12613</Exemplaires>
+		</Stock>
+		<Stock lref="l29">
+			<Prix>34 eur</Prix>
+			<Disponibilite>18</Disponibilite>
+			<Exemplaires>22714</Exemplaires>
+		</Stock>
+		<Stock lref="l30">
+			<Prix>23 eur</Prix>
+			<Disponibilite>3</Disponibilite>
+			<Exemplaires>2401</Exemplaires>
+		</Stock>
+		<Stock lref="l31">
+			<Prix>30 eur</Prix>
+			<Disponibilite>17</Disponibilite>
+			<Exemplaires>21682</Exemplaires>
+		</Stock>
+		<Stock lref="l32">
+			<Prix>23 eur</Prix>
+			<Disponibilite>20</Disponibilite>
+			<Exemplaires>13426</Exemplaires>
+		</Stock>
+		<Stock lref="l33">
+			<Prix>7 eur</Prix>
+			<Disponibilite>3</Disponibilite>
+			<Exemplaires>7425</Exemplaires>
+		</Stock>
+		<Stock lref="l34">
+			<Prix>37 eur</Prix>
+			<Disponibilite>3</Disponibilite>
+			<Exemplaires>10525</Exemplaires>
+		</Stock>
+		<Stock lref="l35">
+			<Prix>29 eur</Prix>
+			<Disponibilite>9</Disponibilite>
+			<Exemplaires>15044</Exemplaires>
+		</Stock>
+		<Stock lref="l36">
+			<Prix>40 eur</Prix>
+			<Disponibilite>0</Disponibilite>
+			<Exemplaires>10479</Exemplaires>
+		</Stock>
+		<Stock lref="l37">
+			<Prix>19 eur</Prix>
+			<Disponibilite>1</Disponibilite>
+			<Exemplaires>9843</Exemplaires>
+		</Stock>
+		<Stock lref="l38">
+			<Prix>27 eur</Prix>
+			<Disponibilite>2</Disponibilite>
+			<Exemplaires>7108</Exemplaires>
+		</Stock>
+		<Stock lref="l39">
+			<Prix>36 eur</Prix>
+			<Disponibilite>19</Disponibilite>
+			<Exemplaires>27113</Exemplaires>
+		</Stock>
+		<Stock lref="l40">
+			<Prix>28 eur</Prix>
+			<Disponibilite>5</Disponibilite>
+			<Exemplaires>870</Exemplaires>
+		</Stock>
+		<Stock lref="l41">
+			<Prix>28 eur</Prix>
+			<Disponibilite>6</Disponibilite>
+			<Exemplaires>8880</Exemplaires>
+		</Stock>
+		<Stock lref="l42">
+			<Prix>30 eur</Prix>
+			<Disponibilite>11</Disponibilite>
+			<Exemplaires>6947</Exemplaires>
+		</Stock>
+		<Stock lref="l43">
+			<Prix>12 eur</Prix>
+			<Disponibilite>17</Disponibilite>
+			<Exemplaires>3009</Exemplaires>
+		</Stock>
+		<Stock lref="l44">
+			<Prix>25 eur</Prix>
+			<Disponibilite>20</Disponibilite>
+			<Exemplaires>4028</Exemplaires>
+		</Stock>
+		<Stock lref="l45">
+			<Prix>36 eur</Prix>
+			<Disponibilite>9</Disponibilite>
+			<Exemplaires>4302</Exemplaires>
+		</Stock>
+		<Stock lref="l46">
+			<Prix>3 eur</Prix>
+			<Disponibilite>5</Disponibilite>
+			<Exemplaires>15465</Exemplaires>
+		</Stock>
+		<Stock lref="l47">
+			<Prix>31 eur</Prix>
+			<Disponibilite>20</Disponibilite>
+			<Exemplaires>620</Exemplaires>
+		</Stock>
+		<Stock lref="l48">
+			<Prix>33 eur</Prix>
+			<Disponibilite>7</Disponibilite>
+			<Exemplaires>10803</Exemplaires>
+		</Stock>
+		<Stock lref="l49">
+			<Prix>16 eur</Prix>
+			<Disponibilite>20</Disponibilite>
+			<Exemplaires>16930</Exemplaires>
+		</Stock>
+		<Stock lref="l50">
+			<Prix>16 eur</Prix>
+			<Disponibilite>17</Disponibilite>
+			<Exemplaires>11824</Exemplaires>
+		</Stock>
+		<Stock lref="l51">
+			<Prix>16 eur</Prix>
+			<Disponibilite>10</Disponibilite>
+			<Exemplaires>1460</Exemplaires>
+		</Stock>
+		<Stock lref="l52">
+			<Prix>33 eur</Prix>
+			<Disponibilite>11</Disponibilite>
+			<Exemplaires>14378</Exemplaires>
+		</Stock>
+		<Stock lref="l53">
+			<Prix>13 eur</Prix>
+			<Disponibilite>9</Disponibilite>
+			<Exemplaires>26712</Exemplaires>
+		</Stock>
+		<Stock lref="l54">
+			<Prix>35 eur</Prix>
+			<Disponibilite>15</Disponibilite>
+			<Exemplaires>10842</Exemplaires>
+		</Stock>
+		<Stock lref="l55">
+			<Prix>9 eur</Prix>
+			<Disponibilite>12</Disponibilite>
+			<Exemplaires>18741</Exemplaires>
+		</Stock>
+		<Stock lref="l56">
+			<Prix>22 eur</Prix>
+			<Disponibilite>7</Disponibilite>
+			<Exemplaires>7096</Exemplaires>
+		</Stock>
+		<Stock lref="l57">
+			<Prix>8 eur</Prix>
+			<Disponibilite>0</Disponibilite>
+			<Exemplaires>16468</Exemplaires>
+		</Stock>
+		<Stock lref="l58">
+			<Prix>38 eur</Prix>
+			<Disponibilite>14</Disponibilite>
+			<Exemplaires>16049</Exemplaires>
+		</Stock>
+		<Stock lref="l59">
+			<Prix>23 eur</Prix>
+			<Disponibilite>16</Disponibilite>
+			<Exemplaires>12325</Exemplaires>
+		</Stock>
+		<Stock lref="l60">
+			<Prix>33 eur</Prix>
+			<Disponibilite>2</Disponibilite>
+			<Exemplaires>22981</Exemplaires>
+		</Stock>
+		<Stock lref="l61">
+			<Prix>30 eur</Prix>
+			<Disponibilite>3</Disponibilite>
+			<Exemplaires>14835</Exemplaires>
+		</Stock>
+		<Stock lref="l62">
+			<Prix>14 eur</Prix>
+			<Disponibilite>5</Disponibilite>
+			<Exemplaires>9764</Exemplaires>
+		</Stock>
+		<Stock lref="l63">
+			<Prix>16 eur</Prix>
+			<Disponibilite>14</Disponibilite>
+			<Exemplaires>28871</Exemplaires>
+		</Stock>
+		<Stock lref="l64">
+			<Prix>14 eur</Prix>
+			<Disponibilite>3</Disponibilite>
+			<Exemplaires>4713</Exemplaires>
+		</Stock>
+		<Stock lref="l65">
+			<Prix>23 eur</Prix>
+			<Disponibilite>9</Disponibilite>
+			<Exemplaires>440</Exemplaires>
+		</Stock>
+		<Stock lref="l66">
+			<Prix>29 eur</Prix>
+			<Disponibilite>19</Disponibilite>
+			<Exemplaires>798</Exemplaires>
+		</Stock>
+		<Stock lref="l67">
+			<Prix>10 eur</Prix>
+			<Disponibilite>12</Disponibilite>
+			<Exemplaires>11553</Exemplaires>
+		</Stock>
+		<Stock lref="l68">
+			<Prix>30 eur</Prix>
+			<Disponibilite>19</Disponibilite>
+			<Exemplaires>3077</Exemplaires>
+		</Stock>
+		<Stock lref="l69">
+			<Prix>35 eur</Prix>
+			<Disponibilite>16</Disponibilite>
+			<Exemplaires>22753</Exemplaires>
+		</Stock>
+		<Stock lref="l70">
+			<Prix>39 eur</Prix>
+			<Disponibilite>18</Disponibilite>
+			<Exemplaires>18500</Exemplaires>
+		</Stock>
+		<Stock lref="l71">
+			<Prix>23 eur</Prix>
+			<Disponibilite>12</Disponibilite>
+			<Exemplaires>19406</Exemplaires>
+		</Stock>
+  </Gestion>
+</Bibliographie>

@@ -1,0 +1,30 @@
+<Fiches dateGeneration="required">
+  <Fiche id="required">
+    <Entete>
+      <Livre>blabla</Livre>
+      <Auteur>blabla</Auteur>
+      <Genre>blabla</Genre>
+      <Format>blabla</Format>
+      <Parution>blabla</Parution>
+      <Prix>blabla</Prix>
+      <Disponibilite>blabla</Disponibilite>
+    </Entete>
+    <Avis source="required">blabla</Avis>
+    <Avis source="required">blabla</Avis>
+    <Details>
+      <NombreDePages>150</NombreDePages>
+      <Taille>blabla</Taille>
+      <Illustration>blabla</Illustration>
+      <Poids>blabla</Poids>
+      <Direction>blabla</Direction>
+      <Direction>blabla</Direction>
+      <Preface>blabla</Preface>
+      <Preface>blabla</Preface>
+      <Postface>blabla</Postface>
+      <Traduction>blabla</Traduction>
+      <Editeur>blabla</Editeur>
+      <Collection>blabla</Collection>
+      <ISBN>blabla</ISBN>
+    </Details>
+  </Fiche>
+</Fiches>

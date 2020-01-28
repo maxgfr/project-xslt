@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Livres (Livre*)>
+<!ELEMENT Livre (General,Informations)>
+<!ELEMENT General (Nom,Auteur,Format,Prix,Disponibilite)>
+<!ELEMENT Informations (NombreDePages?, Taille?, Illustration?, Direction*, Preface*, Postface?, Traduction?, Editeur, ISBN)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Auteur (#PCDATA)>
+<!ELEMENT Format (#PCDATA)>
+<!ELEMENT Prix (#PCDATA)>
+<!ELEMENT Disponibilite (#PCDATA)>
+<!ELEMENT Image (#PCDATA)>
+<!ELEMENT NombreDePages (#PCDATA)>
+<!ELEMENT Taille (#PCDATA)>
+<!ELEMENT Illustration (#PCDATA)>
+<!ELEMENT Direction (#PCDATA)>
+<!ELEMENT Preface (#PCDATA)>
+<!ELEMENT Postface (#PCDATA)>
+<!ELEMENT Traduction (#PCDATA)>
+<!ELEMENT Editeur (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ATTLIST Livre
+id ID #REQUIRED
+couverture_id ID #IMPLIED>
