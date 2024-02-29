@@ -1,0 +1,67 @@
+repo_name: maxgfr/project-xslt
+report_id: 6c82326f1e17bebf9c749d85c723fdaf
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:33:31+00:00'
+requested_by: maxgfr
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/maxgfr/project-xslt
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/maxgfr/project-xslt
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/maxgfr/project-xslt/blob/master/generate_gestion/package.json
+  detection_source: generate_gestion/package.json
+  last_updated_by: "@maxgfr"
+  last_updated_on: 2020-01-28 20:12:13.000000000 Z
+- name: XSLT
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XSLT
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/maxgfr/project-xslt
+  detection_source: Repo Metadata
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/maxgfr/project-xslt/blob/master/generate_gestion/package-lock.json
+  detection_source: generate_gestion/package.json
+  last_updated_by: "@maxgfr"
+  last_updated_on: 2020-01-28 20:12:13.000000000 Z
